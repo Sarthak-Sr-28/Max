@@ -1,0 +1,1032 @@
+_id,patient_id,call_status,call_reason,call_sub_reason,created_at,follow_up_date,remarks
+690a903ec99add8f147f73f4,690a8f920a925c8ae55f8da1,Connected,Financial Concerns,Financial Estimate Pending,2025-11-04T23:46:06.217Z,2025-11-05T05:15:00.000Z,testing 
+690b0647e2cc46d87e8f56e3,690a8faa0a925c8ae55f8da2,Connected,Financial Concerns,Discount Needed,2025-11-05T08:09:43.281Z,2025-11-05T13:38:00.000Z,Patient wants  discount
+690b3760e2cc46d87e8f56ed,690a8faa0a925c8ae55f8da2,Connected,Financial Concerns,Discount Needed,2025-11-05T11:39:12.912Z,2025-11-05T17:02:00.000Z,cross check 
+690b396fe2cc46d87e8f56ef,690ada602207dbd6e3006bae,Connected,Not Interested,Others,2025-11-05T11:47:59.559Z,,she consult with outside neuro doctor 
+690b3a12e2cc46d87e8f56f0,690a8f050a925c8ae55f8d98,Connected,Not Interested,Not Required Anymore,2025-11-05T11:50:42.470Z,,pt. is perfectly f9
+690b3b6be2cc46d87e8f56f1,690ada622207dbd6e3006bb8,Connected,IP Decision Pending,Follow Up,2025-11-05T11:56:27.668Z,2025-12-05T17:25:00.000Z,"pt. is out of station
+ not decide yet "
+690b3e20e2cc46d87e8f56f2,690a8faa0a925c8ae55f8da2,Connected,Not Interested,Not Required Anymore,2025-11-05T12:08:00.813Z,,ct angio. is done is past days of adviced
+690b422ee2cc46d87e8f56f8,690ada612207dbd6e3006bb2,Connected,IP Decision Pending,Follow Up,2025-11-05T12:25:18.072Z,2025-11-12T17:54:00.000Z,after eyes opt
+690b428ae2cc46d87e8f56fb,690ada612207dbd6e3006bb2,Connected,IP Decision Pending,Follow Up,2025-11-05T12:26:50.696Z,2025-11-12T17:55:00.000Z,"pt. sambal dist. he visit in dec after cataract surgery , difficulty in walking "
+690b445ae2cc46d87e8f56fe,690ada5f2207dbd6e3006bac,Connected,IP Decision Pending,Follow Up,2025-11-05T12:34:34.211Z,2025-11-19T18:03:00.000Z,"out of town 
+no pain 
+next visit in delhi 
+(dec)"
+690b45dee2cc46d87e8f5700,690ada602207dbd6e3006bb1,Connected,Not Interested,Others,2025-11-05T12:41:02.052Z,,not answering the call 
+690b4808e2cc46d87e8f5701,690ada612207dbd6e3006bb4,Connected,IP Decision Pending,Follow Up,2025-11-05T12:50:16.856Z,2025-11-06T10:00:00.000Z,pt. att. is intersted want to talk tommorow
+690b49bee2cc46d87e8f5702,690ada622207dbd6e3006bba,Connected,IP Decision Pending,Follow Up,2025-11-05T12:57:34.104Z,2025-11-12T18:25:00.000Z,"pt. relative  
+need to talk about pt. health "
+690b4d2ce2cc46d87e8f5703,690ada622207dbd6e3006bb6,Connected,IP Decision Pending,Follow Up,2025-11-05T13:12:12.802Z,2025-11-20T18:41:00.000Z,pt. want to consult on 24/11/2025
+690b4f17e2cc46d87e8f5704,690a8eae0a925c8ae55f8d93,Connected,IP Decision Pending,Follow Up,2025-11-05T13:20:23.092Z,2025-11-06T12:00:00.000Z,pt. want to consult first 
+690c31e2f78b879b52f3881a,690a8f050a925c8ae55f8d98,Not Connected,Busy,Busy,2025-11-06T05:28:02.813Z,2025-11-08T10:57:00.000Z,
+690c33e1f78b879b52f3881b,690c0d99a3c87fd7b0057cd7,Connected,Not Interested,Not Required Anymore,2025-11-06T05:36:33.438Z,,blk staff member 
+690c3612f78b879b52f3881c,690c0d9fa3c87fd7b0057cec,Not Connected,Busy,Busy,2025-11-06T05:45:54.331Z,2025-11-08T11:15:00.000Z,
+690c3965f78b879b52f38820,690c0da3a3c87fd7b0057cfa,Connected,Financial Concerns,TPA Insurance Issues,2025-11-06T06:00:05.943Z,2025-11-08T11:26:00.000Z,star policy problem and consult with team 
+690c3b72f78b879b52f38823,690c0da1a3c87fd7b0057cf2,Connected,IP Decision Pending,On Medications,2025-11-06T06:08:50.953Z,2025-11-13T11:37:00.000Z,pt. is on medication 
+690c3c9bf78b879b52f38826,690c0da2a3c87fd7b0057cf7,Connected,Not Interested,Admitted Elsewhere,2025-11-06T06:13:47.296Z,,taken admission in other hospital 
+690c3d92f78b879b52f38828,690c0da3a3c87fd7b0057cf9,Not Connected,Busy,Busy,2025-11-06T06:17:54.613Z,2025-11-07T11:47:00.000Z,
+690c3e0cf78b879b52f38829,690c0da3a3c87fd7b0057cfb,Not Connected,Busy,Busy,2025-11-06T06:19:56.116Z,2025-11-07T11:49:00.000Z,
+690c3ef0f78b879b52f3882b,690c0da4a3c87fd7b0057cfd,Connected,Not Interested,Admitted Elsewhere,2025-11-06T06:23:44.963Z,,visited other hospital 
+690c4028f78b879b52f3882f,690c0da4a3c87fd7b0057cff,Connected,IP Decision Pending,Follow Up,2025-11-06T06:28:56.548Z,2025-11-12T10:00:00.000Z,pt. is out of station and will take an appt. after one week 
+690c42e5f78b879b52f38832,690c0da1a3c87fd7b0057cf3,Not Connected,Busy,Busy,2025-11-06T06:40:37.641Z,2025-11-07T12:10:00.000Z,
+690c4362f78b879b52f38833,690c0da1a3c87fd7b0057cf4,Not Connected,Busy,Busy,2025-11-06T06:42:42.079Z,2025-11-07T12:12:00.000Z,
+690c445ff78b879b52f38834,690c0da2a3c87fd7b0057cf6,Connected,IP Decision Pending,Follow Up,2025-11-06T06:46:55.770Z,2025-11-11T12:15:00.000Z,pt. is out of station and will come next week. will take an appt. for Dr. 
+690c454af78b879b52f38836,690c0da2a3c87fd7b0057cf8,Not Connected,Switch Off,Switch Off,2025-11-06T06:50:50.529Z,2025-11-08T12:20:00.000Z,
+690c464ef78b879b52f38838,690c0da1a3c87fd7b0057cf1,Connected,Not Interested,Admitted Elsewhere,2025-11-06T06:55:10.118Z,,visited other hospital for surgery 
+690c4713f78b879b52f3883b,690c0d8ba3c87fd7b0057ca1,Connected,Not Interested,Admitted Elsewhere,2025-11-06T06:58:27.724Z,,visited other  hospital 
+690c47f0f78b879b52f3883f,690c0da0a3c87fd7b0057cee,Not Connected,Busy,Busy,2025-11-06T07:02:08.970Z,2025-11-08T12:32:00.000Z,
+690c48b2f78b879b52f38841,690c0da2a3c87fd7b0057cf5,Connected,Not Interested,Admitted Elsewhere,2025-11-06T07:05:22.147Z,,visited other hospital 
+690c4999f78b879b52f38844,690c0d92a3c87fd7b0057cbb,Not Connected,Busy,Busy,2025-11-06T07:09:13.168Z,2025-11-07T12:39:00.000Z,
+690c4ab7f78b879b52f38846,690c0d99a3c87fd7b0057cd5,Connected,Not Interested,Unaffordable,2025-11-06T07:13:59.481Z,,EWS card 
+690c4c30f78b879b52f38849,690c0d9da3c87fd7b0057ce3,Connected,Admission In Process,Admission Tentative,2025-11-06T07:20:16.495Z,2025-12-01T12:48:00.000Z," admission plan for next month  in Dec with Dr. ankit parakh "
+690c4c91f78b879b52f3884c,690c0d9ba3c87fd7b0057cdf,Not Connected,Busy,Busy,2025-11-06T07:21:53.034Z,2025-11-08T12:51:00.000Z,
+690c4dd5f78b879b52f3884e,690c0da3a3c87fd7b0057cfc,Not Connected,Busy,Busy,2025-11-06T07:27:17.228Z,2025-11-07T12:57:00.000Z,
+690c4fbef78b879b52f38850,690c0d9ba3c87fd7b0057cde,Connected,Admitted,Admission Done,2025-11-06T07:35:26.887Z,2025-09-25T13:04:00.000Z,admitted
+690c501af78b879b52f38851,690c0d9da3c87fd7b0057ce4,Not Connected,Busy,Busy,2025-11-06T07:36:58.866Z,2025-11-08T13:06:00.000Z,
+690c5162f78b879b52f38852,690c0d9fa3c87fd7b0057ced,Connected,IP Decision Pending,Follow Up,2025-11-06T07:42:26.410Z,2025-11-06T14:12:00.000Z,call back for appt. 
+690c522af78b879b52f38853,690c0d8ea3c87fd7b0057cac,Connected,Not Interested,Admitted Elsewhere,2025-11-06T07:45:46.055Z,,visited other hospital for high charges of blk max 
+690c5288f78b879b52f38854,690c0da4a3c87fd7b0057cfe,Not Connected,Busy,Busy,2025-11-06T07:47:20.607Z,2025-11-08T13:17:00.000Z,
+690c52b9f78b879b52f38856,690c0da4a3c87fd7b0057d00,Not Connected,Busy,Busy,2025-11-06T07:48:09.120Z,2025-11-07T13:18:00.000Z,
+690c53d4f78b879b52f3885b,690c0d9ba3c87fd7b0057cdd,Connected,Not Interested,Admitted Elsewhere,2025-11-06T07:52:52.651Z,2025-12-01T13:21:00.000Z,admitted in INA hospital 
+690c544af78b879b52f3885e,690c0d8da3c87fd7b0057ca7,Connected,Not Interested,Admitted Elsewhere,2025-11-06T07:54:50.763Z,,no requirement 
+690c55e5f78b879b52f38860,690c0da0a3c87fd7b0057cef,Connected,Not Interested,Not Required Anymore,2025-11-06T08:01:41.591Z,,no idea for admission 
+690c567cf78b879b52f38862,690c0d8ca3c87fd7b0057ca4,Connected,Not Interested,Admitted Elsewhere,2025-11-06T08:04:12.027Z,,treatment complete
+690c56e0f78b879b52f38864,690c0d92a3c87fd7b0057cbd,Not Connected,Busy,Busy,2025-11-06T08:05:52.097Z,2025-11-07T13:35:00.000Z,
+690c591df78b879b52f38867,690c0d9ea3c87fd7b0057ce8,Connected,Not Interested,Admitted Elsewhere,2025-11-06T08:15:25.688Z,,pt. is fine now and no required for admission 
+690c59def78b879b52f38868,690a8f050a925c8ae55f8d97,Not Connected,Busy,Busy,2025-11-06T08:18:38.917Z,2025-11-08T13:48:00.000Z,
+690c5b0cf78b879b52f38869,690c0d9ca3c87fd7b0057ce0,Connected,Not Interested,Not Required Anymore,2025-11-06T08:23:40.019Z,,no required 
+690c5c50f78b879b52f3886c,690c0d9fa3c87fd7b0057ced,Connected,Not Interested,Not Required Anymore,2025-11-06T08:29:04.886Z,,NO REQUIRED 
+690c5d9cf78b879b52f3886e,690c0d7ba3c87fd7b0057c63,Not Connected,Busy,Busy,2025-11-06T08:34:36.222Z,2025-11-07T14:10:00.000Z,
+690c5e86f78b879b52f3886f,690c0d7ba3c87fd7b0057c63,Not Connected,Busy,Busy,2025-11-06T08:38:30.798Z,2025-11-06T14:15:00.000Z,
+690c5f5cf78b879b52f38871,690ada612207dbd6e3006bb4,Connected,IP Decision Pending,Follow Up,2025-11-06T08:42:04.944Z,2025-11-06T16:00:00.000Z,pt. is intersted but date is not confi.
+690c5ff6f78b879b52f38872,690c0d7ba3c87fd7b0057c63,Not Connected,Busy,Busy,2025-11-06T08:44:38.263Z,2025-11-07T14:14:00.000Z,
+690c603df78b879b52f38873,690c0d84a3c87fd7b0057c85,Not Connected,Busy,Busy,2025-11-06T08:45:49.913Z,2025-11-06T16:05:00.000Z,
+690c60e7f78b879b52f38875,690c0d87a3c87fd7b0057c92,Not Connected,Busy,Busy,2025-11-06T08:48:39.424Z,2025-11-06T16:15:00.000Z,
+690c617bf78b879b52f38876,690c0d85a3c87fd7b0057c87,Not Connected,Busy,Busy,2025-11-06T08:51:07.840Z,2025-11-06T17:00:00.000Z,
+690c621af78b879b52f38878,690c0d89a3c87fd7b0057c9a,Not Connected,Switch Off,Switch Off,2025-11-06T08:53:46.202Z,2025-11-07T14:10:00.000Z,
+690c64c2f78b879b52f3887d,690c0d84a3c87fd7b0057c86,Connected,Not Interested,Admitted Elsewhere,2025-11-06T09:05:06.828Z,,surgery done in Artemis Hospital
+690c66cff78b879b52f3887f,690c0d90a3c87fd7b0057cb5,Connected,IP Decision Pending,On Medications,2025-11-06T09:13:51.209Z,2025-11-15T14:05:00.000Z,"pt. on medications ( bhagalpur bihar)
+cag adviced by doc. 
+depend after DR. CONSULTATION "
+690c6891f78b879b52f38882,690c0d83a3c87fd7b0057c80,Connected,Not Interested,Others,2025-11-06T09:21:21.696Z,,"not answered by any one 
+but as per record of his pt. is admitted in blk max 
+on 23/096/2025
+(ip no 226633)"
+690c6982f78b879b52f38884,690c0d81a3c87fd7b0057c79,Not Connected,Busy,Busy,2025-11-06T09:25:22.193Z,2025-11-07T15:00:00.000Z,
+690c6a44f78b879b52f38885,690c0d7da3c87fd7b0057c6a,Connected,Not Interested,Not Required Anymore,2025-11-06T09:28:36.434Z,,"no dengue symptoms
+pt. is ok now  "
+690c6b3df78b879b52f38886,690c0d7ba3c87fd7b0057c61,Not Connected,Busy,Busy,2025-11-06T09:32:45.289Z,2025-11-07T15:02:00.000Z,
+690c6bd5f78b879b52f38887,690c0d98a3c87fd7b0057cd2,Not Connected,Busy,Busy,2025-11-06T09:35:17.884Z,2025-11-07T15:05:00.000Z,
+690c6c2cf78b879b52f38889,690c0d97a3c87fd7b0057cd0,Not Connected,Busy,Busy,2025-11-06T09:36:44.414Z,2025-11-07T16:05:00.000Z,
+690c6ca6f78b879b52f3888a,690c0d94a3c87fd7b0057cc6,Not Connected,Busy,Busy,2025-11-06T09:38:46.293Z,2025-11-07T17:05:00.000Z,
+690c6dd7f78b879b52f3888b,690c0d86a3c87fd7b0057c8c,Connected,Not Interested,Not Required Anymore,2025-11-06T09:43:51.873Z,,pt. is perfectly f9
+690c6ecaf78b879b52f3888d,690c0d8da3c87fd7b0057ca9,Not Connected,Busy,Busy,2025-11-06T09:47:54.161Z,2025-11-07T15:17:00.000Z,
+690c7019f78b879b52f38892,690c0d87a3c87fd7b0057c93,Not Connected,Busy,Busy,2025-11-06T09:53:29.515Z,2025-11-07T15:23:00.000Z,
+690c7210f78b879b52f38898,690c0d8aa3c87fd7b0057c9c,Connected,Not Interested,Others,2025-11-06T10:01:52.558Z,,"pt. is deny for cag 
+pt. is not interested ( age factor) "
+690c7284f78b879b52f3889b,690c0d85a3c87fd7b0057c88,Not Connected,Busy,Busy,2025-11-06T10:03:48.255Z,2025-11-07T14:05:00.000Z,
+690c731bf78b879b52f3889f,690c0d87a3c87fd7b0057c90,Not Connected,Busy,Busy,2025-11-06T10:06:19.092Z,2025-11-07T15:36:00.000Z,
+690c746df78b879b52f388a3,690c0d86a3c87fd7b0057c8e,Not Connected,Busy,Busy,2025-11-06T10:11:57.527Z,2025-11-07T15:41:00.000Z,
+690c752df78b879b52f388a6,690c0d93a3c87fd7b0057cc0,Connected,Not Interested,Not Required Anymore,2025-11-06T10:15:09.941Z,,not required any more 
+690c75d3f78b879b52f388a7,690c0d89a3c87fd7b0057c9b,Not Connected,Busy,Busy,2025-11-06T10:17:55.397Z,2025-11-07T16:00:00.000Z,
+690c7792f78b879b52f388af,690c0d88a3c87fd7b0057c97,Connected,Not Interested,Admitted Elsewhere,2025-11-06T10:25:22.772Z,,otside admission done 
+690c77fef78b879b52f388b0,690c0d79a3c87fd7b0057c5a,Not Connected,Busy,Busy,2025-11-06T10:27:10.962Z,2025-11-07T15:57:00.000Z,
+690c78b0f78b879b52f388b3,690c0d96a3c87fd7b0057ccc,Connected,Not Interested,Admitted Elsewhere,2025-11-06T10:30:08.422Z,,pt. is already admitted 
+690c791ef78b879b52f388b4,690c0d7aa3c87fd7b0057c5c,Not Connected,Busy,Busy,2025-11-06T10:31:58.936Z,2025-11-07T16:30:00.000Z,
+690c7a9af78b879b52f388b6,690c0d81a3c87fd7b0057c77,Connected,Not Interested,Not Required Anymore,2025-11-06T10:38:18.101Z,,"pt. on medication 
+mot required anymore "
+690c7b6ff78b879b52f388b8,690c0d8da3c87fd7b0057ca8,Not Connected,Invalid,Invalid,2025-11-06T10:41:51.839Z,,
+690c7bf1f78b879b52f388b9,690c0d8aa3c87fd7b0057c9e,Not Connected,Busy,Busy,2025-11-06T10:44:01.633Z,2025-11-07T16:30:00.000Z,
+690c7d94f78b879b52f388bc,690c0d85a3c87fd7b0057c89,Connected,Not Interested,Not Required Anymore,2025-11-06T10:51:00.490Z,,dialysis done on 10/06/2025
+690c7ed3f78b879b52f388bf,690c0d86a3c87fd7b0057c8d,Connected,IP Decision Pending,Follow Up,2025-11-06T10:56:19.002Z,2025-11-13T16:24:00.000Z,pt. is intersted but date is not confirmed 
+690c7f65f78b879b52f388c1,690c0d92a3c87fd7b0057cbe,Not Connected,Busy,Busy,2025-11-06T10:58:45.962Z,2025-11-07T16:28:00.000Z,
+690c8058f78b879b52f388c4,690c0d83a3c87fd7b0057c7e,Not Connected,Busy,Busy,2025-11-06T11:02:48.279Z,2025-11-07T14:15:00.000Z,
+690c8059f78b879b52f388c5,690c0d83a3c87fd7b0057c7e,Not Connected,Busy,Busy,2025-11-06T11:02:49.551Z,2025-11-07T14:15:00.000Z,
+690c805af78b879b52f388c6,690c0d83a3c87fd7b0057c7e,Not Connected,Busy,Busy,2025-11-06T11:02:50.637Z,2025-11-07T14:15:00.000Z,
+690c81abf78b879b52f388cd,690c0d7ca3c87fd7b0057c64,Connected,IP Decision Pending,Follow Up,2025-11-06T11:08:27.567Z,2025-11-15T16:37:00.000Z,reuired after medication 
+690c8287f78b879b52f388d1,690c0d99a3c87fd7b0057cd6,Not Connected,Switch Off,Switch Off,2025-11-06T11:12:07.232Z,2025-11-07T16:42:00.000Z,
+690c83acf78b879b52f388d8,690c0d95a3c87fd7b0057cc8,Connected,IP Decision Pending,Follow Up,2025-11-06T11:17:00.259Z,2025-11-13T16:46:00.000Z,"8638827887( pt.self m:)
+need to connect again "
+690c8444f78b879b52f388da,690c0d8aa3c87fd7b0057ca0,Not Connected,Busy,Busy,2025-11-06T11:19:32.016Z,2025-11-07T16:49:00.000Z,
+690c85f1f78b879b52f388dd,690c0d91a3c87fd7b0057cba,Connected,Not Interested,Not Required Anymore,2025-11-06T11:26:41.090Z,,surgery done under dr. poonam khera  as per patiengt 
+690c86a2f78b879b52f388de,690c0d87a3c87fd7b0057c8f,Connected,Not Interested,Admitted Elsewhere,2025-11-06T11:29:38.877Z,,"not required 
+consult out side "
+690c8780f78b879b52f388e0,690c0d8ca3c87fd7b0057ca5,Connected,Not Interested,Admitted Elsewhere,2025-11-06T11:33:20.872Z,,surgery done outside 
+690c8857f78b879b52f388e2,690c0d89a3c87fd7b0057c99,Connected,Not Interested,Others,2025-11-06T11:36:55.949Z,,not interested 
+690c8859f78b879b52f388e3,690c0d89a3c87fd7b0057c99,Connected,Not Interested,Others,2025-11-06T11:36:57.571Z,,not interested 
+690c885af78b879b52f388e4,690c0d89a3c87fd7b0057c99,Connected,Not Interested,Others,2025-11-06T11:36:58.915Z,,not interested 
+690c88d7f78b879b52f388e6,690c0d83a3c87fd7b0057c81,Not Connected,Busy,Busy,2025-11-06T11:39:03.045Z,2025-11-07T17:09:00.000Z,
+690c898bf78b879b52f388e7,690c0d89a3c87fd7b0057c98,Not Connected,Busy,Busy,2025-11-06T11:42:03.981Z,2025-11-07T14:15:00.000Z,
+690c8a28f78b879b52f388ea,690c0d7fa3c87fd7b0057c71,Not Connected,Busy,Busy,2025-11-06T11:44:40.563Z,2025-11-07T17:14:00.000Z,
+690c9394f78b879b52f388f2,690c0d7ea3c87fd7b0057c6b,Not Connected,Busy,Busy,2025-11-06T12:24:52.667Z,2025-11-07T14:12:00.000Z,
+690c94e8f78b879b52f388f8,690c0d87a3c87fd7b0057c91,Connected,IP Decision Pending,Follow Up,2025-11-06T12:30:32.693Z,2025-11-13T14:30:00.000Z,date is not confirmed 
+690c957ef78b879b52f388fb,690c0d8fa3c87fd7b0057cb1,Not Connected,Busy,Busy,2025-11-06T12:33:02.751Z,2025-11-07T14:05:00.000Z,
+690c9615f78b879b52f388ff,690c0d84a3c87fd7b0057c84,Not Connected,Busy,Busy,2025-11-06T12:35:33.486Z,2025-11-07T17:05:00.000Z,
+690c96c5f78b879b52f38901,690c0d8fa3c87fd7b0057cb0,Connected,Not Interested,Admitted Elsewhere,2025-11-06T12:38:29.164Z,,surgery done 
+690c97d9f78b879b52f38902,690c0d80a3c87fd7b0057c73,Connected,IP Decision Pending,OPD Appointment,2025-11-06T12:43:05.349Z,2025-11-10T14:10:00.000Z,after consultation 
+690d84e99fc4ba972303d87b,690c0da3a3c87fd7b0057cfb,Not Connected,Busy,Busy,2025-11-07T05:34:33.513Z,2025-11-08T11:04:00.000Z,
+690d857f9fc4ba972303d87c,690c0da2a3c87fd7b0057cf7,Not Connected,Busy,Busy,2025-11-07T05:37:03.926Z,2025-11-11T11:07:00.000Z,
+690d86539fc4ba972303d87e,690c0d92a3c87fd7b0057cbd,Not Connected,Busy,Busy,2025-11-07T05:40:35.872Z,2025-11-10T11:10:00.000Z,
+690d88029fc4ba972303d882,690c0d92a3c87fd7b0057cbb,Not Connected,Busy,Busy,2025-11-07T05:47:46.542Z,2025-11-08T11:17:00.000Z,
+690d88dd9fc4ba972303d883,690c0da3a3c87fd7b0057cfa,Connected,IP Decision Pending,Follow Up,2025-11-07T05:51:25.476Z,2025-11-20T11:20:00.000Z,will plan for admission after 20 days 
+690d896f9fc4ba972303d886,690c0d9ba3c87fd7b0057cdc,Connected,Not Interested,Not Required Anymore,2025-11-07T05:53:51.217Z,,she is fine now no required for admission 
+690d8a1e9fc4ba972303d887,690c0da0a3c87fd7b0057cf0,Not Connected,Switch Off,Switch Off,2025-11-07T05:56:46.959Z,2025-11-10T11:26:00.000Z,
+690d8a9e9fc4ba972303d889,690c0d9ca3c87fd7b0057ce1,Not Connected,Busy,Busy,2025-11-07T05:58:54.334Z,2025-11-08T11:28:00.000Z,
+690d8aed9fc4ba972303d88b,690c0d97a3c87fd7b0057ccf,Not Connected,Busy,Busy,2025-11-07T06:00:13.029Z,2025-11-10T11:30:00.000Z,
+690d8e319fc4ba972303d88f,690ada5e2207dbd6e3006bab,Connected,Financial Concerns,TPA Insurance Issues,2025-11-07T06:14:09.840Z,2025-11-07T15:01:00.000Z,"concern for tpa 
+niva bhupa"
+690d8f059fc4ba972303d891,690a8f050a925c8ae55f8d95,Not Connected,Busy,Busy,2025-11-07T06:17:41.247Z,2025-11-08T11:47:00.000Z,
+690d8fc49fc4ba972303d894,690a8f920a925c8ae55f8da0,Connected,Admitted,Admission Done,2025-11-07T06:20:52.030Z,2025-10-24T10:49:00.000Z,pt. admistted in 24 Oct
+690d97509fc4ba972303d897,690c0d95a3c87fd7b0057cc7,Not Connected,Busy,Busy,2025-11-07T06:53:04.517Z,2025-11-11T12:23:00.000Z,
+690d98869fc4ba972303d89a,690c0d93a3c87fd7b0057cc1,Connected,IP Decision Pending,Follow Up,2025-11-07T06:58:14.954Z,2025-11-10T12:26:00.000Z,"pt disconnected the call after hearing BLK, will followup"
+690d9e399fc4ba972303d8a1,690ada632207dbd6e3006bbb,Connected,Not Interested,Not Required Anymore,2025-11-07T07:22:33.252Z,,no required 
+690d9fbf9fc4ba972303d8a9,690a8f060a925c8ae55f8d99,Connected,IP Decision Pending,Follow Up,2025-11-07T07:29:03.147Z,2025-11-07T16:00:00.000Z,call back in evening for appt. (Dr. arpit jain)
+690da0e29fc4ba972303d8af,690c0d91a3c87fd7b0057cb7,Not Connected,Busy,Busy,2025-11-07T07:33:54.316Z,2025-11-08T13:03:00.000Z,
+690da47f9fc4ba972303d8b2,690c0d9da3c87fd7b0057ce5,Not Connected,Busy,Busy,2025-11-07T07:49:19.708Z,2025-11-08T13:19:00.000Z,
+690da54f9fc4ba972303d8b5,690c0d95a3c87fd7b0057cc9,Not Connected,Busy,Busy,2025-11-07T07:52:47.950Z,2025-11-08T13:22:00.000Z,
+690da62b9fc4ba972303d8b6,690c0d9ea3c87fd7b0057ce9,Not Connected,Busy,Busy,2025-11-07T07:56:27.623Z,2025-11-08T13:26:00.000Z,
+690da6b39fc4ba972303d8b7,690c0d90a3c87fd7b0057cb4,Not Connected,Busy,Busy,2025-11-07T07:58:43.794Z,2025-11-08T13:28:00.000Z,
+690da7c69fc4ba972303d8b9,690c0d90a3c87fd7b0057cb6,Connected,Not Interested,Not Required Anymore,2025-11-07T08:03:18.252Z,,no required 
+690da8569fc4ba972303d8bc,690a8eae0a925c8ae55f8d93,Not Connected,Busy,Busy,2025-11-07T08:05:42.783Z,2025-11-08T13:35:00.000Z,
+690da95e9fc4ba972303d8c0,690c0d9ea3c87fd7b0057ce7,Not Connected,Busy,Busy,2025-11-07T08:10:06.971Z,2025-11-08T13:40:00.000Z,
+690da9da9fc4ba972303d8c1,690c0d96a3c87fd7b0057ccd,Not Connected,Busy,Busy,2025-11-07T08:12:10.956Z,2025-11-08T13:42:00.000Z,
+690daa5e9fc4ba972303d8c2,690c0d98a3c87fd7b0057cd3,Not Connected,Switch Off,Switch Off,2025-11-07T08:14:22.318Z,2025-11-12T13:44:00.000Z,
+690db7cf9fc4ba972303d8cf,690c0d84a3c87fd7b0057c85,Connected,IP Decision Pending,Follow Up,2025-11-07T09:11:43.850Z,2025-12-01T14:40:00.000Z,date is not confirmed
+690db84d9fc4ba972303d8d0,690ada612207dbd6e3006bb4,Not Connected,Busy,Busy,2025-11-07T09:13:49.941Z,2025-11-10T14:20:00.000Z,
+690db88f9fc4ba972303d8d1,690c0d85a3c87fd7b0057c87,Not Connected,Busy,Busy,2025-11-07T09:14:55.884Z,2025-11-08T14:10:00.000Z,
+690db9a29fc4ba972303d8d2,690c0d89a3c87fd7b0057c9a,Not Connected,Busy,Busy,2025-11-07T09:19:30.063Z,2025-11-08T14:20:00.000Z,
+690db9e09fc4ba972303d8d4,690c0d8da3c87fd7b0057ca8,Not Connected,Invalid,Invalid,2025-11-07T09:20:32.762Z,,
+690dba7a9fc4ba972303d8d6,690c0d87a3c87fd7b0057c92,Not Connected,Busy,Busy,2025-11-07T09:23:06.727Z,2025-11-08T14:10:00.000Z,
+690dbbc99fc4ba972303d8d8,690c0d79a3c87fd7b0057c5a,Connected,Admitted,Admission Done,2025-11-07T09:28:41.107Z,2025-10-01T14:57:00.000Z,pt. is alreday admitted under dr. dharma 
+690dbc439fc4ba972303d8da,690c0d89a3c87fd7b0057c98,Not Connected,Busy,Busy,2025-11-07T09:30:43.443Z,2025-11-08T14:20:00.000Z,
+690dbcdb9fc4ba972303d8db,690c0d87a3c87fd7b0057c90,Connected,Not Interested,Admitted Elsewhere,2025-11-07T09:33:15.619Z,,admitted eleswhere 
+690dbe259fc4ba972303d8e0,690c0d7fa3c87fd7b0057c71,Connected,IP Decision Pending,Follow Up,2025-11-07T09:38:45.877Z,2025-12-25T15:00:00.000Z,required surgery stem transplant ( bmt) nagaland 
+690dbf4a9fc4ba972303d8e5,690c0d86a3c87fd7b0057c8e,Connected,IP Decision Pending,OPD Appointment,2025-11-07T09:43:38.865Z,2025-12-15T14:05:00.000Z," admitted elsewhere"
+690dc03a9fc4ba972303d8ea,690c0d7ea3c87fd7b0057c6b,Not Connected,Busy,Busy,2025-11-07T09:47:38.928Z,2025-11-08T15:17:00.000Z,
+690dc1219fc4ba972303d8f0,690c0d97a3c87fd7b0057cd0,Connected,Not Interested,Not Required Anymore,2025-11-07T09:51:29.181Z,,pt. is fit & f9 now 
+690dc1819fc4ba972303d8f1,690c0d8fa3c87fd7b0057cb1,Not Connected,Busy,Busy,2025-11-07T09:53:05.431Z,2025-11-08T15:20:00.000Z,
+690dc20a9fc4ba972303d8f4,690c0d7aa3c87fd7b0057c5c,Not Connected,Busy,Busy,2025-11-07T09:55:22.920Z,2025-11-08T14:30:00.000Z,
+690dc2779fc4ba972303d8f6,690c0d94a3c87fd7b0057cc6,Not Connected,Busy,Busy,2025-11-07T09:57:11.763Z,2025-11-12T15:30:00.000Z,
+690dc2d69fc4ba972303d8f8,690c0d8da3c87fd7b0057ca9,Not Connected,Busy,Busy,2025-11-07T09:58:46.278Z,2025-11-08T16:30:00.000Z,
+690dc3b49fc4ba972303d8fc,690c0d8aa3c87fd7b0057c9e,Connected,Not Interested,Admitted Elsewhere,2025-11-07T10:02:28.706Z,,alredy consult some elsewhere 
+690dc3f39fc4ba972303d8fe,690c0d8da3c87fd7b0057ca8,Not Connected,Invalid,Invalid,2025-11-07T10:03:31.331Z,,
+690dc45e9fc4ba972303d8ff,690c0d92a3c87fd7b0057cbe,Not Connected,Busy,Busy,2025-11-07T10:05:18.642Z,2025-11-08T16:00:00.000Z,
+690dc5b09fc4ba972303d903,690c0d8aa3c87fd7b0057ca0,Not Connected,Busy,Busy,2025-11-07T10:10:56.035Z,2025-11-08T15:30:00.000Z,
+690dc6409fc4ba972303d906,690c0d8da3c87fd7b0057ca8,Not Connected,Invalid,Invalid,2025-11-07T10:13:20.158Z,,
+690dcb609fc4ba972303d90e,690c0d83a3c87fd7b0057c81,Not Connected,Invalid,Invalid,2025-11-07T10:35:12.503Z,,
+690dcc799fc4ba972303d911,690c0d85a3c87fd7b0057c88,Not Connected,Busy,Busy,2025-11-07T10:39:53.149Z,2025-11-08T16:15:00.000Z,
+690dcce39fc4ba972303d913,690c0d85a3c87fd7b0057c88,Not Connected,Busy,Busy,2025-11-07T10:41:39.625Z,2025-11-08T17:11:00.000Z,
+690dcd6d9fc4ba972303d915,690c0d89a3c87fd7b0057c9b,Not Connected,Busy,Busy,2025-11-07T10:43:57.180Z,2025-11-08T16:30:00.000Z,
+690dce159fc4ba972303d916,690c0d84a3c87fd7b0057c84,Not Connected,Busy,Busy,2025-11-07T10:46:45.114Z,2025-11-08T16:30:00.000Z,
+690dcf349fc4ba972303d918,690c0d7fa3c87fd7b0057c72,Connected,Not Interested,Not Required Anymore,2025-11-07T10:51:32.552Z,,delivery is done ( pregnancy )
+690dd26e6593fb15d29c9b5f,690c0d83a3c87fd7b0057c7e,Not Connected,Busy,Busy,2025-11-07T11:05:18.838Z,2025-11-08T15:20:00.000Z,
+690dd2d16593fb15d29c9b61,690c0d7ba3c87fd7b0057c63,Not Connected,Busy,Busy,2025-11-07T11:06:57.487Z,2025-11-08T15:25:00.000Z,
+690dd3996593fb15d29c9b65,690c0d98a3c87fd7b0057cd4,Not Connected,Busy,Busy,2025-11-07T11:10:17.244Z,2025-11-08T15:05:00.000Z,
+690dd4ef6593fb15d29c9b6a,690ada602207dbd6e3006bb0,Connected,Not Interested,Not Required Anymore,2025-11-07T11:15:59.299Z,,outside consult 
+690dd5ee6593fb15d29c9b6f,690c0d8ea3c87fd7b0057cae,Not Connected,Wrong Number,Wrong Number,2025-11-07T11:20:14.873Z,,
+690dd6f36593fb15d29c9b70,690c0d83a3c87fd7b0057c7f,Connected,Not Interested,Not Required Anymore,2025-11-07T11:24:35.810Z,,not required anymore 
+690dd6f46593fb15d29c9b71,690c0d83a3c87fd7b0057c7f,Connected,Not Interested,Not Required Anymore,2025-11-07T11:24:36.173Z,,not required anymore 
+690dd8186593fb15d29c9b73,690c0d82a3c87fd7b0057c7d,Connected,Not Interested,Not Required Anymore,2025-11-07T11:29:28.258Z,,"bahu 
+pt. is fit &f9
+cont. medication under endo."
+690dd8496593fb15d29c9b74,690c0d82a3c87fd7b0057c7d,Connected,Not Interested,Not Required Anymore,2025-11-07T11:30:17.995Z,,(bahu) pt. is fit &f9 cont. medication under (endo).
+690dd8e46593fb15d29c9b75,690c0d8ba3c87fd7b0057ca3,Not Connected,Busy,Busy,2025-11-07T11:32:52.752Z,2025-11-08T16:45:00.000Z,
+690ddbe76593fb15d29c9b7c,690c0d88a3c87fd7b0057c94,Connected,Not Interested,Not Required Anymore,2025-11-07T11:45:43.249Z,,not required anymore 
+690ddd3f6593fb15d29c9b7e,690c0d88a3c87fd7b0057c96,Connected,IP Decision Pending,New,2025-11-07T11:51:27.362Z,2025-11-08T14:35:00.000Z,"pt. is admitted in other hospital 
+suggest for second opinion"
+690ddddf6593fb15d29c9b81,690c0d8fa3c87fd7b0057caf,Not Connected,Busy,Busy,2025-11-07T11:54:07.216Z,2025-11-08T14:35:00.000Z,
+690de1406593fb15d29c9b83,690c0d7ba3c87fd7b0057c60,Not Connected,Busy,Busy,2025-11-07T12:08:32.251Z,2025-11-08T17:00:00.000Z,
+690de1d46593fb15d29c9b86,690c0d7aa3c87fd7b0057c5d,Connected,Not Interested,Not Required Anymore,2025-11-07T12:11:00.231Z,,not required appointment only 
+690de2776593fb15d29c9b87,690c0d95a3c87fd7b0057cca,Not Connected,Busy,Busy,2025-11-07T12:13:43.754Z,2025-11-08T17:43:00.000Z,
+690de3386593fb15d29c9b89,690c0d97a3c87fd7b0057cce,Connected,IP Decision Pending,Follow Up,2025-11-07T12:16:56.546Z,2025-11-08T14:00:00.000Z,kidney biopsy
+690de43e6593fb15d29c9b90,690c0d7aa3c87fd7b0057c5f,Connected,Not Interested,Admitted Elsewhere,2025-11-07T12:21:18.650Z,,"surgery done outside 
+
+
+
+"
+690de4c96593fb15d29c9b91,690c0d7ca3c87fd7b0057c65,Not Connected,Busy,Busy,2025-11-07T12:23:37.389Z,2025-11-08T14:00:00.000Z,
+690de6896593fb15d29c9b95,690c0d99a3c87fd7b0057cd6,Not Connected,Switch Off,Switch Off,2025-11-07T12:31:05.817Z,2025-11-08T14:05:00.000Z,
+690ec0b5feee8270fa5502ad,690ada632207dbd6e3006bbb,Connected,Financial Concerns,Discount Needed,2025-11-08T04:01:57.192Z,2025-11-09T09:31:00.000Z,Patient wants discount
+690ec0f5feee8270fa5502af,690ada632207dbd6e3006bbb,Connected,Financial Concerns,TPA Insurance Issues,2025-11-08T04:03:01.399Z,2025-11-09T09:32:00.000Z,Issues
+690ec12efeee8270fa5502b1,690ada632207dbd6e3006bbb,Connected,Operational Concerns,Reports Pending,2025-11-08T04:03:58.692Z,2025-11-08T09:33:00.000Z,Cost
+690ec1d0feee8270fa5502b4,690ada632207dbd6e3006bbb,Connected,Operational Concerns,Reports Pending,2025-11-08T04:06:40.834Z,2025-11-08T09:36:00.000Z,fsdf
+690ec1fefeee8270fa5502b6,690ada632207dbd6e3006bbb,Connected,Operational Concerns,Reports Pending,2025-11-08T04:07:26.470Z,2025-11-08T09:37:00.000Z,","
+690ec337feee8270fa5502b8,690ada632207dbd6e3006bbb,Connected,Operational Concerns,Reports Pending,2025-11-08T04:12:39.139Z,2025-11-08T09:42:00.000Z,adsf
+690ec372feee8270fa5502ba,690ada632207dbd6e3006bbb,Connected,Operational Concerns,Reports Pending,2025-11-08T04:13:38.103Z,2025-11-09T09:43:00.000Z,fsfds
+690ec391feee8270fa5502bc,690ada632207dbd6e3006bbb,Connected,Operational Concerns,Reports Pending,2025-11-08T04:14:09.690Z,2025-11-08T09:44:00.000Z,vcv
+690ec3a6feee8270fa5502be,690ada632207dbd6e3006bbb,Connected,Not Interested,Patient Expired,2025-11-08T04:14:30.707Z,,ddfds
+690ec43dfeee8270fa5502bf,690ada632207dbd6e3006bbb,Connected,Operational Concerns,Reports Pending,2025-11-08T04:17:01.803Z,2025-11-09T09:46:00.000Z,sddsd
+690ec48dfeee8270fa5502c1,690ada632207dbd6e3006bbb,Connected,Operational Concerns,Reports Pending,2025-11-08T04:18:21.001Z,2025-11-08T09:48:00.000Z,",l"
+690ec4a2feee8270fa5502c2,690ada632207dbd6e3006bbb,Connected,Not Interested,Patient Expired,2025-11-08T04:18:42.263Z,,j
+690ec5d3feee8270fa5502c3,690ada632207dbd6e3006bbb,Connected,Not Interested,Not Required Anymore,2025-11-08T04:23:47.185Z,,sgsgf
+690ec733feee8270fa5502c6,690ada632207dbd6e3006bbb,Connected,Financial Concerns,Discount Needed,2025-11-08T04:29:39.221Z,2025-11-08T09:59:00.000Z,",m,"
+690ec781feee8270fa5502c8,690ada632207dbd6e3006bbb,Connected,Financial Concerns,Discount Needed,2025-11-08T04:30:57.966Z,2025-11-09T10:00:00.000Z,sdffsd
+690ec7a4feee8270fa5502ca,690ada632207dbd6e3006bbb,Connected,Operational Concerns,Doctors Dependency,2025-11-08T04:31:32.900Z,2025-11-08T10:01:00.000Z,"jb,"
+690ec7bdfeee8270fa5502cc,690ada632207dbd6e3006bbb,Connected,Not Interested,Not Required Anymore,2025-11-08T04:31:57.623Z,," m"
+690ec7d9feee8270fa5502ce,690ada632207dbd6e3006bbb,Connected,Not Interested,Not Required Anymore,2025-11-08T04:32:25.692Z,2025-11-08T10:02:00.000Z,"m,,"
+690eff27feee8270fa55031c,690c0d81a3c87fd7b0057c79,Connected,Not Interested,Not Required Anymore,2025-11-08T08:28:23.060Z,,patient  health is good now
+690eff6ffeee8270fa55031e,690c0d7ba3c87fd7b0057c61,Not Connected,Busy,Busy,2025-11-08T08:29:35.873Z,2025-11-10T14:00:00.000Z,
+690effbcfeee8270fa550320,690c0d98a3c87fd7b0057cd2,Not Connected,Busy,Busy,2025-11-08T08:30:52.495Z,2025-11-09T14:10:00.000Z,
+690f002cfeee8270fa550324,690c0d87a3c87fd7b0057c93,Not Connected,Busy,Busy,2025-11-08T08:32:44.009Z,2025-11-10T14:10:00.000Z,
+690f0087feee8270fa550327,690c0d97a3c87fd7b0057cce,Not Connected,Busy,Busy,2025-11-08T08:34:15.799Z,2025-11-10T14:10:00.000Z,
+690f012afeee8270fa550328,690c0d88a3c87fd7b0057c96,Not Connected,Busy,Busy,2025-11-08T08:36:58.718Z,2025-11-10T14:06:00.000Z,
+690f0166feee8270fa550329,690c0d88a3c87fd7b0057c96,Connected,IP Decision Pending,Follow Up,2025-11-08T08:37:58.552Z,2025-11-10T14:07:00.000Z,need to connect again 
+690f01ebfeee8270fa55032c,690c0d80a3c87fd7b0057c76,Not Connected,Busy,Busy,2025-11-08T08:40:11.733Z,2025-11-10T14:15:00.000Z,
+690f0266feee8270fa55032f,690c0d8aa3c87fd7b0057c9d,Not Connected,Busy,Busy,2025-11-08T08:42:14.704Z,2025-11-10T14:20:00.000Z,
+690f03e3feee8270fa550330,690c0d7ba3c87fd7b0057c62,Connected,Not Interested,Others,2025-11-08T08:48:35.980Z,2025-09-08T14:18:00.000Z,injection done on opd basis
+690f043dfeee8270fa550332,690c0d92a3c87fd7b0057cbc,Not Connected,Busy,Busy,2025-11-08T08:50:05.866Z,2025-11-10T14:20:00.000Z,
+690f049bfeee8270fa550333,690c0d94a3c87fd7b0057cc5,Not Connected,Busy,Busy,2025-11-08T08:51:39.218Z,2025-11-10T14:21:00.000Z,
+690f0530feee8270fa550334,690c0d84a3c87fd7b0057c83,Connected,Not Interested,Admitted Elsewhere,2025-11-08T08:54:08.640Z,,admitted near by home 
+690f05f3feee8270fa550336,690c0d85a3c87fd7b0057c8a,Connected,Not Interested,Not Required Anymore,2025-11-08T08:57:23.316Z,,pt health is good now 
+690f0692feee8270fa550338,690c0d7da3c87fd7b0057c68,Not Connected,Busy,Busy,2025-11-08T09:00:02.204Z,2025-11-10T14:45:00.000Z,
+690f0753feee8270fa550339,690c0d84a3c87fd7b0057c82,Not Connected,Busy,Busy,2025-11-08T09:03:15.651Z,2025-11-10T13:00:00.000Z,
+690f0824feee8270fa55033a,690c0d7da3c87fd7b0057c67,Connected,Not Interested,Not Required Anymore,2025-11-08T09:06:44.486Z,,as per pt. don't call again 
+690f08c1feee8270fa55033c,690c0d86a3c87fd7b0057c8b,Connected,Not Interested,Not Required Anymore,2025-11-08T09:09:21.720Z,,as per son pt. is good now 
+690f094bfeee8270fa55033e,690c0d90a3c87fd7b0057cb3,Connected,Not Interested,Admitted Elsewhere,2025-11-08T09:11:39.665Z,,surgery done in r.j stone hospital 
+690f0a29feee8270fa550340,690c0d7ea3c87fd7b0057c6c,Not Connected,Busy,Busy,2025-11-08T09:15:21.314Z,2025-11-10T15:00:00.000Z,
+690f0da28f8d051eec1a2f84,690c0d7aa3c87fd7b0057c5e,Connected,Not Interested,Negative Feedback,2025-11-08T09:30:10.038Z,,"pt. er. no 	3510272
+pt consult in cash but pt. sponsor is cghs (p) 
+as per pt. our staff is refused to admit "
+690f0eba8f8d051eec1a2f86,690c0d8ea3c87fd7b0057cab,Not Connected,Switch Off,Switch Off,2025-11-08T09:34:50.262Z,2025-11-10T15:04:00.000Z,
+690f0fa98f8d051eec1a2f87,690c0d8da3c87fd7b0057caa,Connected,Not Interested,Admitted Elsewhere,2025-11-08T09:38:49.462Z,,cabg is done in rml hospital 
+690f10b98f8d051eec1a2f89,690c0d97a3c87fd7b0057cd1,Connected,Not Interested,Admitted Elsewhere,2025-11-08T09:43:21.883Z,,kidney biopsy done in ganga ram hospital 
+690f11d98f8d051eec1a2f8a,690a8f420a925c8ae55f8d9d,Connected,Not Interested,Admitted Elsewhere,2025-11-08T09:48:09.315Z,,pt. want continue his wife treatment in PSRI Multispeciality Hospital
+690f13108f8d051eec1a2f8e,690a8f050a925c8ae55f8d96,Connected,Not Interested,Not Required Anymore,2025-11-08T09:53:20.029Z,,"pt. is better now not required for admission 
+pt. on medication ( post KTP PT.) "
+690f13688f8d051eec1a2f91,690a8f420a925c8ae55f8d9e,Not Connected,Busy,Busy,2025-11-08T09:54:48.360Z,2025-11-10T15:24:00.000Z,
+690f14498f8d051eec1a2f93,690c0d9aa3c87fd7b0057cd9,Not Connected,Busy,Busy,2025-11-08T09:58:33.294Z,2025-11-10T15:30:00.000Z,
+690f150e8f8d051eec1a2f96,690c0d8aa3c87fd7b0057c9f,Not Connected,Busy,Busy,2025-11-08T10:01:50.146Z,2025-11-10T15:45:00.000Z,
+690f192f8f8d051eec1a2fa0,690a8f920a925c8ae55f8da1,Connected,Not Interested,Not Required Anymore,2025-11-08T10:19:27.473Z,,"PT. IS NOT ADMITTED ON THAT TIME 
+PT. IS ON MEDICINE "
+690f19c48f8d051eec1a2fa2,690c0d9fa3c87fd7b0057ceb,Connected,Not Interested,Others,2025-11-08T10:21:56.507Z,,"PT. WANT TO FIX HIS PROBLEM WITH HELP OF MED. 
+PT. DON'T WANT ANY SURG. "
+690f1a6e8f8d051eec1a2fa6,690ada612207dbd6e3006bb5,Not Connected,Busy,Busy,2025-11-08T10:24:46.362Z,2025-11-10T16:00:00.000Z,
+690f1b638f8d051eec1a2fa8,690c0da2a3c87fd7b0057cf5,Connected,Not Interested,Admitted Elsewhere,2025-11-08T10:28:51.319Z,,"SURGERY DONE IN RR ARMY HOSPITAL 
+PACEMAKER IMPLANTATION "
+690f1c4f8f8d051eec1a2fac,690c0da2a3c87fd7b0057cf8,Not Connected,Switch Off,Switch Off,2025-11-08T10:32:47.423Z,2025-11-10T16:00:00.000Z,
+690f1dd08f8d051eec1a2fae,690c0d93a3c87fd7b0057cbf,Connected,Operational Concerns,Doctors Dependency,2025-11-08T10:39:12.159Z,2025-11-10T14:00:00.000Z,"PT. IS INTERSTED IN SURGERY BUT HAVE TIME ISSUE
+NEED TO DISCUSS WITH DOC. 
+
+"
+690f1f248f8d051eec1a2fb0,690c0da1a3c87fd7b0057cf1,Connected,Not Interested,Not Required Anymore,2025-11-08T10:44:52.555Z,,PT. WANT TO CONTINUE HIS TREATMENT IN MEDANTA HOSPITAL 
+690f20568f8d051eec1a2fb3,690c0d94a3c87fd7b0057cc3,Connected,IP Decision Pending,Follow Up,2025-11-08T10:49:58.164Z,2025-11-21T15:00:00.000Z,"PACEMAKER IMPLANTATION SURGERY IS STILL PENDING 
+DATE AND TIME IS NOT CONFIRMED BY PT. "
+690f244f8f8d051eec1a2fba,690c0d9aa3c87fd7b0057cdb,Connected,Not Interested,Not Required Anymore,2025-11-08T11:06:55.377Z,,227207 already admitted in blk max under dgehs sponsor 
+690f24688f8d051eec1a2fbb,690c0d94a3c87fd7b0057cc4,Connected,Not Interested,Not Required Anymore,2025-11-08T11:07:20.942Z,,on medicine 
+690f258a8f8d051eec1a2fbc,690c0d93a3c87fd7b0057cc2,Not Connected,Busy,Busy,2025-11-08T11:12:10.927Z,2025-11-10T14:30:00.000Z,
+690f26e68f8d051eec1a2fbe,690c0d8ba3c87fd7b0057ca2,Not Connected,Busy,Busy,2025-11-08T11:17:58.757Z,2025-11-10T14:45:00.000Z,
+690f27828f8d051eec1a2fc1,690c0d8ea3c87fd7b0057cad,Connected,IP Decision Pending,New,2025-11-08T11:20:34.605Z,2025-11-21T16:50:00.000Z,.00
+690f27c28f8d051eec1a2fc2,690c0d8ea3c87fd7b0057cad,Not Connected,Busy,Busy,2025-11-08T11:21:38.672Z,2025-11-10T16:00:00.000Z,
+690f282e8f8d051eec1a2fc5,690c0da1a3c87fd7b0057cf2,Not Connected,Busy,Busy,2025-11-08T11:23:26.904Z,2025-11-10T16:00:00.000Z,
+6911b8ea41f86e63a4b5a8c0,691161218e9debf284a2fe7d,Not Connected,Busy,Busy,2025-11-10T10:05:30.929Z,2025-11-11T15:00:00.000Z,
+6911b97141f86e63a4b5a8c2,6911611c8e9debf284a2fe68,Not Connected,Busy,Busy,2025-11-10T10:07:45.030Z,2025-11-11T15:05:00.000Z,
+6911bad541f86e63a4b5a8cb,6911612e8e9debf284a2feac,Connected,Operational Concerns,Reports Pending,2025-11-10T10:13:41.004Z,2025-11-15T15:00:00.000Z,being treated for deranged lft s by the physician 
+6911bbc241f86e63a4b5a8d0,690c0d99a3c87fd7b0057cd6,Not Connected,Switch Off,Switch Off,2025-11-10T10:17:38.179Z,2025-11-17T15:00:00.000Z,
+6911bbf241f86e63a4b5a8d1,690c0d84a3c87fd7b0057c84,Not Connected,Busy,Busy,2025-11-10T10:18:26.951Z,2025-11-12T15:00:00.000Z,
+6911be2641f86e63a4b5a8d3,6911614c8e9debf284a2ff1b,Connected,Not Interested,Admitted Elsewhere,2025-11-10T10:27:50.253Z,,surgery done in ganga ram hospital 
+6911bf3741f86e63a4b5a8d7,691160ff8e9debf284a2fdfe,Connected,Not Interested,Patient Expired,2025-11-10T10:32:23.435Z,,pt. is expired 
+6911c15841f86e63a4b5a8de,690ada5e2207dbd6e3006bab,Connected,Financial Concerns,TPA Insurance Issues,2025-11-10T10:41:28.370Z,2025-11-12T16:08:00.000Z,waiting documents need to share with tpa 
+6911c1b441f86e63a4b5a8e0,691161208e9debf284a2fe77,Not Connected,Busy,Busy,2025-11-10T10:43:00.098Z,2025-11-11T16:00:00.000Z,
+6911c2c741f86e63a4b5a8e1,691161208e9debf284a2fe77,Connected,Not Interested,Others,2025-11-10T10:47:35.770Z,,"yash ( son) pt. is on medication
+pt. want treatment by medicine "
+6911c33941f86e63a4b5a8e2,691161278e9debf284a2fe95,Connected,Not Interested,Admitted Elsewhere,2025-11-10T10:49:29.656Z,,surgery done in maharaja agrasen hospital  
+6911c49641f86e63a4b5a8e3,6911610e8e9debf284a2fe34,Connected,Not Interested,Distance,2025-11-10T10:55:18.550Z,,"pt. visit in banaras for dr. avinash verma 
+sugery done by doctor avinash in banaras( last month of november)"
+6911c60641f86e63a4b5a8e4,691161388e9debf284a2fed2,Connected,IP Decision Pending,On Medications,2025-11-10T11:01:26.703Z,2025-12-01T14:15:00.000Z,"pt. on medication 
+pt. decide after take medicine for 1.5 monts"
+6911c6f141f86e63a4b5a8e5,691161528e9debf284a2ff30,Connected,IP Decision Pending,New,2025-11-10T11:05:21.273Z,2025-11-11T16:00:00.000Z,conversation is pending 
+6911c77241f86e63a4b5a8e6,691161268e9debf284a2fe90,Not Connected,Busy,Busy,2025-11-10T11:07:30.241Z,2025-11-11T15:00:00.000Z,
+6911c9fb41f86e63a4b5a8e7,6911612c8e9debf284a2fea5,Connected,Financial Concerns,Financial Estimate Pending,2025-11-10T11:18:19.615Z,2025-11-12T14:30:00.000Z,brother (saleem ahmad ) need to provide estimate 
+6911cb1441f86e63a4b5a8e9,691161478e9debf284a2ff06,Not Connected,Busy,Busy,2025-11-10T11:23:00.569Z,2025-11-11T15:00:00.000Z,
+6911cbb141f86e63a4b5a8ea,6911612b8e9debf284a2fea3,Not Connected,Busy,Busy,2025-11-10T11:25:37.607Z,2025-11-11T16:00:00.000Z,
+6911cbfd41f86e63a4b5a8eb,6911614a8e9debf284a2ff11,Not Connected,Busy,Busy,2025-11-10T11:26:53.358Z,2025-11-12T04:00:00.000Z,
+6911cce241f86e63a4b5a8ec,691161328e9debf284a2febc,Connected,Not Interested,Others,2025-11-10T11:30:42.157Z,,pt. want contine his treatment in AIMS hospital 
+6911cd6a41f86e63a4b5a8ed,6911611e8e9debf284a2fe6f,Not Connected,Busy,Busy,2025-11-10T11:32:58.466Z,2025-11-11T17:02:00.000Z,
+6911cefc41f86e63a4b5a8ee,6911614c8e9debf284a2ff1a,Connected,Operational Concerns,Reports Pending,2025-11-10T11:39:40.721Z,2025-11-17T17:07:00.000Z,"guhati( assam ) pt. usg is pending pt. share reports directly to co-ordinator ( farah) after result, need to connect with pt. "
+6911d08041f86e63a4b5a8f1,691161238e9debf284a2fe84,Connected,Not Interested,Not Required Anymore,2025-11-10T11:46:08.768Z,,"att. take consult in proxy now pt is good in condition 
+pt. continue his treatment under dr. ibrahim in fortis hispital ( shb) surgery not required anymore "
+6911d09f41f86e63a4b5a8f2,691161528e9debf284a2ff30,Not Connected,Busy,Busy,2025-11-10T11:46:39.719Z,2025-11-11T17:16:00.000Z,
+6911d0ff41f86e63a4b5a8f3,691161498e9debf284a2ff10,Connected,IP Decision Pending,New,2025-11-10T11:48:15.431Z,2025-11-27T17:18:00.000Z,kjb
+6911d12541f86e63a4b5a8f4,691161528e9debf284a2ff30,Connected,IP Decision Pending,New,2025-11-10T11:48:53.683Z,2025-11-18T17:18:00.000Z,conversation is pending
+6911d15d41f86e63a4b5a8f5,691161528e9debf284a2ff30,Not Connected,Busy,Busy,2025-11-10T11:49:49.347Z,2025-11-11T17:19:00.000Z,
+6911d3b141f86e63a4b5a8fc,690c0d89a3c87fd7b0057c98,Connected,IP Decision Pending,Fitness Awaited,2025-11-10T11:59:45.749Z,2026-02-10T15:00:00.000Z,"pt. is on medication 
+pt. is taking treatment in fortis hospital related cardio issue 
+after 4 months medication pt. go for cardiac cleareance  "
+6911d48e41f86e63a4b5a8ff,6911612c8e9debf284a2fea5,Connected,IP Decision Pending,Follow Up,2025-11-10T12:03:26.263Z,2025-11-11T14:45:00.000Z,pt. minimum estimate is 5.50k according to economy ward 
+6911d6fb41f86e63a4b5a905,691161318e9debf284a2feb6,Connected,Operational Concerns,Reports Pending,2025-11-10T12:13:47.994Z,2025-11-11T15:00:00.000Z,"reports share with doc. by pt. on whatsapp no but not check by doctor 
+same escalate with co-ordinator need to connect again "
+6911d79b41f86e63a4b5a907,6911611f8e9debf284a2fe75,Connected,Not Interested,Admitted Elsewhere,2025-11-10T12:16:27.295Z,,surgery done in apollo hospital 
+6911d8c841f86e63a4b5a909,691161138e9debf284a2fe48,Not Connected,Busy,Busy,2025-11-10T12:21:28.507Z,2025-11-11T15:00:00.000Z,
+6911daa141f86e63a4b5a912,691161008e9debf284a2fe05,Connected,Not Interested,Admitted Elsewhere,2025-11-10T12:29:21.930Z,,"pt. surgery done in jain hospital  by dr. rahul jain 
+pt  Drainage Lumbar Puncture is done but no improvement att. visited  for second opinion on that time 
+
+no more possiblites in this case as per dr. atul prasad confirmed by attn."
+6911db2541f86e63a4b5a914,6911613a8e9debf284a2fed8,Connected,Not Interested,Admitted Elsewhere,2025-11-10T12:31:33.220Z,,"pt. surgery done in jaipur 
+home town is jaipur "
+6911dc7341f86e63a4b5a916,691161348e9debf284a2fec4,Connected,Not Interested,Not Required Anymore,2025-11-10T12:37:07.851Z,,"piles problem pt. switch for ayurvedic treatment 
+and go back his home town ( u.p) "
+6911dd2741f86e63a4b5a917,691161048e9debf284a2fe12,Not Connected,Busy,Busy,2025-11-10T12:40:07.087Z,2025-11-11T14:45:00.000Z,
+6911dd9941f86e63a4b5a918,691161418e9debf284a2fef0,Not Connected,Busy,Busy,2025-11-10T12:42:01.907Z,2025-11-11T15:00:00.000Z,
+6911ddf441f86e63a4b5a919,691161308e9debf284a2feb5,Not Connected,Busy,Busy,2025-11-10T12:43:32.048Z,2025-11-11T15:30:00.000Z,
+6911de5741f86e63a4b5a91a,691161348e9debf284a2fec1,Not Connected,Busy,Busy,2025-11-10T12:45:11.922Z,2025-11-11T14:45:00.000Z,
+6911dee341f86e63a4b5a91b,691161188e9debf284a2fe5b,Connected,Not Interested,Not Required Anymore,2025-11-10T12:47:31.207Z,,pt. want to continue his treatment on medication ( age factor  85) 
+6911df5d41f86e63a4b5a91c,691161518e9debf284a2ff2c,Not Connected,Busy,Busy,2025-11-10T12:49:33.489Z,2025-11-11T15:45:00.000Z,
+6911dfd541f86e63a4b5a91d,691161518e9debf284a2ff2c,Not Connected,Busy,Busy,2025-11-10T12:51:33.945Z,2025-11-11T16:30:00.000Z,
+691304fc41f86e63a4b5a95b,6911612c8e9debf284a2fea5,Connected,IP Decision Pending,Estimate Taken,2025-11-11T09:42:20.951Z,2025-11-12T15:00:00.000Z,estimate share on whatsapp with brother pt. is intrested ( offer amount is 5.50k)
+6913075c41f86e63a4b5a961,690ada612207dbd6e3006bb4,Connected,IP Decision Pending,Fitness Awaited,2025-11-11T09:52:28.719Z,2025-11-14T15:15:00.000Z,"cataract surgery 
+after recovery from fever "
+691309e641f86e63a4b5a967,690c0d87a3c87fd7b0057c91,Not Connected,Busy,Busy,2025-11-11T10:03:18.668Z,2025-11-12T15:30:00.000Z,
+69130b2741f86e63a4b5a96b,690c0d7ca3c87fd7b0057c64,Connected,IP Decision Pending,On Medications,2025-11-11T10:08:39.254Z,2025-11-19T15:00:00.000Z,"pt medication  complete on 22 nov 
+need to connect again on 19/11/2025
+dr. adv. for pacemaker  implantation  "
+69130ced41f86e63a4b5a96d,690c0d94a3c87fd7b0057cc3,Connected,IP Decision Pending,Follow Up,2025-11-11T10:16:13.583Z,2025-11-18T15:30:00.000Z,"PT. IS INTERSTED 
+PACEMAKER IMPLANTATION SURGERY IS STILL PENDING DATE AND TIME IS NOT CONFIRMED BY PT."
+69130e9d41f86e63a4b5a973,690ada622207dbd6e3006bba,Connected,Not Interested,Not Required Anymore,2025-11-11T10:23:25.802Z,,"PT. IS GOOD NOW NOT REQUIRED ANY MORE 
+( PLEASE DON'T CALL ) "
+6913124841f86e63a4b5a979,690c0d7ea3c87fd7b0057c6b,Connected,Not Interested,Not Required Anymore,2025-11-11T10:39:04.660Z,,not required any more dose done in sep in blk max ( rituximab inj. carried by pt. )
+6913131041f86e63a4b5a97c,690c0d7ba3c87fd7b0057c60,Not Connected,Busy,Busy,2025-11-11T10:42:24.953Z,2025-11-12T15:30:00.000Z,
+691313f641f86e63a4b5a97f,690c0d8fa3c87fd7b0057cb1,Not Connected,Busy,Busy,2025-11-11T10:46:14.683Z,2025-11-14T04:00:00.000Z,
+6913146641f86e63a4b5a980,690c0d92a3c87fd7b0057cbe,Not Connected,Busy,Busy,2025-11-11T10:48:06.872Z,2025-11-14T16:00:00.000Z,
+691314f241f86e63a4b5a983,690c0d8aa3c87fd7b0057ca0,Not Connected,Busy,Busy,2025-11-11T10:50:26.462Z,2025-11-15T16:20:00.000Z,
+6913157e41f86e63a4b5a986,690c0d85a3c87fd7b0057c88,Not Connected,Busy,Busy,2025-11-11T10:52:46.606Z,2025-11-13T16:22:00.000Z,
+691315b341f86e63a4b5a987,690c0d8ea3c87fd7b0057cab,Not Connected,Switch Off,Switch Off,2025-11-11T10:53:39.695Z,2025-11-12T16:23:00.000Z,
+6913188f41f86e63a4b5a98f,690c0da1a3c87fd7b0057cf2,Connected,IP Decision Pending,Follow Up,2025-11-11T11:05:51.711Z,2025-11-15T16:32:00.000Z,"9899170375
+pt. contact no 
+need to connect with pt. regarding admission "
+69131ae841f86e63a4b5a996,690c0d93a3c87fd7b0057cc2,Connected,Not Interested,Admitted Elsewhere,2025-11-11T11:15:52.737Z,,"NEUROSURGERY - REFER TO RML EMREGENCY
+pt. want to continue his treatment from RML hospital "
+69131bd341f86e63a4b5a999,691161318e9debf284a2feb6,Connected,Operational Concerns,Doctors Dependency,2025-11-11T11:19:47.614Z,2025-11-12T16:00:00.000Z,"reports check by doctor 
+same escalate with co-ordinator need to connect again"
+69131c1241f86e63a4b5a99c,691161418e9debf284a2fef0,Not Connected,Busy,Busy,2025-11-11T11:20:50.351Z,2025-11-14T16:00:00.000Z,
+69131e6141f86e63a4b5a9a4,691161048e9debf284a2fe12,Not Connected,Busy,Busy,2025-11-11T11:30:41.172Z,2025-11-12T17:00:00.000Z,
+69131e9e41f86e63a4b5a9a5,691161138e9debf284a2fe48,Not Connected,Busy,Busy,2025-11-11T11:31:42.582Z,2025-11-12T17:00:00.000Z,
+69131f4841f86e63a4b5a9a7,691161528e9debf284a2ff30,Not Connected,Busy,Busy,2025-11-11T11:34:32.842Z,2025-11-12T17:00:00.000Z,
+691325a241f86e63a4b5a9ae,691161268e9debf284a2fe90,Not Connected,Busy,Busy,2025-11-11T12:01:38.435Z,2025-11-12T17:31:00.000Z,
+691325a441f86e63a4b5a9af,691161268e9debf284a2fe90,Not Connected,Busy,Busy,2025-11-11T12:01:40.553Z,2025-11-12T17:31:00.000Z,
+691325fb41f86e63a4b5a9b0,6911611c8e9debf284a2fe68,Not Connected,Busy,Busy,2025-11-11T12:03:07.635Z,2025-11-12T17:00:00.000Z,
+6913266b41f86e63a4b5a9b1,691161348e9debf284a2fec2,Not Connected,Busy,Busy,2025-11-11T12:04:59.095Z,2025-11-13T17:34:00.000Z,
+691326c941f86e63a4b5a9b3,691161218e9debf284a2fe7b,Not Connected,Busy,Busy,2025-11-11T12:06:33.919Z,2025-11-12T17:30:00.000Z,
+691328f841f86e63a4b5a9b9,6911613c8e9debf284a2fee0,Connected,Not Interested,Not Required Anymore,2025-11-11T12:15:52.663Z,,"patient take second opinion in neuro
+(from outside )"
+691329a541f86e63a4b5a9bc,691161498e9debf284a2ff0d,Connected,Not Interested,Not Required Anymore,2025-11-11T12:18:45.559Z,,pt. is cured now no need to follow 
+69132a9341f86e63a4b5a9be,6911611b8e9debf284a2fe67,Not Connected,Busy,Busy,2025-11-11T12:22:43.516Z,2025-11-12T17:00:00.000Z,
+691466e341f86e63a4b5aa03,6911612c8e9debf284a2fea5,Not Connected,Busy,Busy,2025-11-12T10:52:19.355Z,2025-11-13T16:00:00.000Z,
+691467f241f86e63a4b5aa07,691161308e9debf284a2feb5,Not Connected,Busy,Busy,2025-11-12T10:56:50.864Z,2025-11-18T16:26:00.000Z,
+6914685d41f86e63a4b5aa0a,691161308e9debf284a2feb5,Connected,IP Decision Pending,Follow Up,2025-11-12T10:58:37.842Z,2025-11-21T16:27:00.000Z,(son) pt. is intersted but date & time is not confirmed yet 
+691469b141f86e63a4b5aa10,691161018e9debf284a2fe07,Not Connected,Busy,Busy,2025-11-12T11:04:17.892Z,2025-11-15T16:00:00.000Z,
+69146d7041f86e63a4b5aa17,691161138e9debf284a2fe47,Not Connected,Busy,Busy,2025-11-12T11:20:16.912Z,2025-11-13T16:00:00.000Z,
+69146fca41f86e63a4b5aa18,6911612c8e9debf284a2fea7,Connected,IP Decision Pending,Fitness Awaited,2025-11-12T11:30:18.502Z,2025-11-14T16:00:00.000Z,pt. is intersted wating for PAC CLEAREANCE visit on upcoming saturday 
+6914703e41f86e63a4b5aa19,691161038e9debf284a2fe0e,Not Connected,Busy,Busy,2025-11-12T11:32:14.373Z,2025-11-13T15:00:00.000Z,
+6915aa1c41f86e63a4b5aa70,690a8f060a925c8ae55f8d99,Connected,IP Decision Pending,On Medications,2025-11-13T09:51:24.280Z,2025-12-08T15:19:00.000Z,pt. is on medication after one month doctor decide renal biopsy ir required or not 
+6915aa9c41f86e63a4b5aa71,690c0d88a3c87fd7b0057c96,Connected,IP Decision Pending,Follow Up,2025-11-13T09:53:32.816Z,2025-11-14T15:23:00.000Z,need to connect gain 
+6915ab4941f86e63a4b5aa72,690c0d93a3c87fd7b0057cbf,Not Connected,Busy,Busy,2025-11-13T09:56:25.659Z,2025-11-14T15:00:00.000Z,
+6915ad4141f86e63a4b5aa76,690c0d93a3c87fd7b0057cc1,Connected,IP Decision Pending,Follow Up,2025-11-13T10:04:49.078Z,2025-11-18T15:00:00.000Z,"pt. is intersted in surgery but he dont now about star TPA is on panel again
+need to connect again for followup
+ "
+6915ae4641f86e63a4b5aa79,690c0da2a3c87fd7b0057cf6,Connected,Not Interested,Not Required Anymore,2025-11-13T10:09:10.891Z,,"pt. don't want surgery ( age factor 83) 
+pt. want medication only "
+6915aef141f86e63a4b5aa7a,691161318e9debf284a2feb6,Not Connected,Busy,Busy,2025-11-13T10:12:01.052Z,2025-11-14T15:00:00.000Z,
+6915b02941f86e63a4b5aa7c,690ada5e2207dbd6e3006bab,Not Connected,Busy,Busy,2025-11-13T10:17:13.553Z,2025-11-14T15:00:00.000Z,
+6915b23041f86e63a4b5aa81,690c0d95a3c87fd7b0057cc8,Connected,IP Decision Pending,Follow Up,2025-11-13T10:25:52.800Z,2025-11-14T15:00:00.000Z,need to connect gain pt. is not present for moment .(8638827887 pt. self conatact no )
+6915b27c41f86e63a4b5aa82,6911612f8e9debf284a2feb2,Not Connected,Switch Off,Switch Off,2025-11-13T10:27:08.805Z,2025-11-14T15:00:00.000Z,
+6915b2fc41f86e63a4b5aa83,6911611a8e9debf284a2fe61,Not Connected,Busy,Busy,2025-11-13T10:29:16.754Z,2025-11-14T15:00:00.000Z,
+6915b34e41f86e63a4b5aa85,691161188e9debf284a2fe58,Not Connected,Busy,Busy,2025-11-13T10:30:38.637Z,2025-11-14T16:00:00.000Z,
+6915b41041f86e63a4b5aa87,691161188e9debf284a2fe58,Connected,Not Interested,Not Required Anymore,2025-11-13T10:33:52.067Z,,pt. want to continnue his treatment under his previous doctor with the help of medicine 
+6915b45c41f86e63a4b5aa89,691161128e9debf284a2fe44,Not Connected,Busy,Busy,2025-11-13T10:35:08.980Z,2025-11-14T16:05:00.000Z,
+6915b51c41f86e63a4b5aa8a,691161128e9debf284a2fe44,Not Connected,Wrong Number,Wrong Number,2025-11-13T10:38:20.590Z,,
+6915b5bf41f86e63a4b5aa8b,691161298e9debf284a2fe9a,Not Connected,Busy,Busy,2025-11-13T10:41:03.191Z,2025-11-14T16:00:00.000Z,
+6915b70141f86e63a4b5aa8c,691161258e9debf284a2fe8c,Connected,Not Interested,Not Required Anymore,2025-11-13T10:46:25.552Z,,pt. is continue her treatment from outside 
+6915b8af41f86e63a4b5aa8f,6911613d8e9debf284a2fee4,Connected,IP Decision Pending,Follow Up,2025-11-13T10:53:35.782Z,2025-12-10T15:30:00.000Z,"pt. want to consult after 1 month 
+(now pt. avoid the surgery )"
+6915b9bf41f86e63a4b5aa92,6911610d8e9debf284a2fe31,Not Connected,Busy,Busy,2025-11-13T10:58:07.897Z,2025-11-14T16:00:00.000Z,
+6915baba41f86e63a4b5aa97,691161268e9debf284a2fe8d,Connected,Not Interested,Not Required Anymore,2025-11-13T11:02:18.528Z,,patient is okay now not required of admission 
+6915c05641f86e63a4b5aaa5,690c0d81a3c87fd7b0057c79,Connected,Not Interested,Not Required Anymore,2025-11-13T11:26:14.980Z,,patient health is good now
+6915c11b41f86e63a4b5aaa9,691161058e9debf284a2fe18,Connected,Not Interested,Not Required Anymore,2025-11-13T11:29:31.456Z,,"pt. is on medication 
+pt. don't want any surgery ( 75 year age factor) "
+6915c1b841f86e63a4b5aaab,691161098e9debf284a2fe22,Not Connected,Busy,Busy,2025-11-13T11:32:08.171Z,2025-11-18T17:00:00.000Z,
+6915c31141f86e63a4b5aaad,691161098e9debf284a2fe24,Connected,Not Interested,Admitted Elsewhere,2025-11-13T11:37:53.311Z,,surgery is done in A.I.M.S hospital 
+6915c35e41f86e63a4b5aaae,691161398e9debf284a2fed3,Not Connected,Busy,Busy,2025-11-13T11:39:10.215Z,2025-11-14T17:00:00.000Z,
+6915c56d41f86e63a4b5aab3,691161038e9debf284a2fe0f,Connected,IP Decision Pending,Follow Up,2025-11-13T11:47:57.880Z,2025-12-01T17:00:00.000Z,"surgery date and time is confirmed yet 
+pt. is on medication ( call in next month ) pt. is not intersted now "
+6915c6d941f86e63a4b5aab9,691161358e9debf284a2fec7,Not Connected,Busy,Busy,2025-11-13T11:54:01.732Z,2025-11-14T17:00:00.000Z,
+6915c7e541f86e63a4b5aabc,691161328e9debf284a2febb,Connected,Not Interested,Admitted Elsewhere,2025-11-13T11:58:29.337Z,,"9953695805(self  hemlata )
+surgery done in kailash hospital "
+6915c8bf41f86e63a4b5aac0,6911614b8e9debf284a2ff17,Connected,IP Decision Pending,Follow Up,2025-11-13T12:02:07.102Z,2025-11-18T15:30:00.000Z,"pt. is intersted but date is not decide yet 
+call after one week "
+6915ca3e41f86e63a4b5aac7,6911614b8e9debf284a2ff15,Connected,IP Decision Pending,Follow Up,2025-11-13T12:08:30.077Z,2025-11-24T15:00:00.000Z,"pt. take appoint for 25/11/2025
+need to take estimate after consultation
+pt. is interested for surgery"
+6915cb6a41f86e63a4b5aaca,6911613f8e9debf284a2feec,Connected,IP Decision Pending,On Medications,2025-11-13T12:13:30.256Z,2025-11-18T16:00:00.000Z,"pt. is not intersted in surgery but want consult with dr. 
+"
+6915cd4f41f86e63a4b5aace,6911612f8e9debf284a2feb0,Connected,IP Decision Pending,Follow Up,2025-11-13T12:21:35.111Z,2025-11-18T17:46:00.000Z,"pt. is having hepatitis b ( liver issue ) problem ,physian advice 1.5 months medicine, after issue settle dr. go for surgery  but at present  pt. is out of town they visit on 17/11/2025 "
+6915cde541f86e63a4b5aad0,6911612e8e9debf284a2fead,Not Connected,Busy,Busy,2025-11-13T12:24:05.956Z,2025-11-14T17:00:00.000Z,
+6915ce8341f86e63a4b5aad1,690c0d9da3c87fd7b0057ce6,Not Connected,Busy,Busy,2025-11-13T12:26:43.278Z,2025-11-14T17:00:00.000Z,
+6915cf7541f86e63a4b5aad3,6911614f8e9debf284a2ff25,Connected,Not Interested,Not Required Anymore,2025-11-13T12:30:45.000Z,,pt. is cure by medicine ( manipal hospital ) 
+6915cff841f86e63a4b5aad4,690c0da3a3c87fd7b0057cfc,Not Connected,Busy,Busy,2025-11-13T12:32:56.985Z,2025-11-14T16:00:00.000Z,
+6915d03f41f86e63a4b5aad5,6911613e8e9debf284a2fee8,Not Connected,Switch Off,Switch Off,2025-11-13T12:34:07.542Z,2025-11-15T18:00:00.000Z,
+6915d0d241f86e63a4b5aad6,690c0da3a3c87fd7b0057cf9,Not Connected,Busy,Busy,2025-11-13T12:36:34.032Z,2025-11-14T18:00:00.000Z,
+6915d1fb41f86e63a4b5aad7,691161328e9debf284a2febd,Not Connected,Busy,Busy,2025-11-13T12:41:31.454Z,2025-11-19T14:00:00.000Z,
+6915d2c741f86e63a4b5aad8,691161278e9debf284a2fe93,Connected,Not Interested,Admitted Elsewhere,2025-11-13T12:44:55.355Z,,"pt. c.e.a is increase 
+family decode to contine her treatment in rajiv gandhi hospital "
+6916c23d6f894b0639f16bd1,691161488e9debf284a2ff0a,Not Connected,Busy,Busy,2025-11-14T05:46:37.080Z,2025-11-15T11:16:00.000Z,
+6916c3b36f894b0639f16bd2,691161428e9debf284a2fef7,Connected,Not Interested,Not Required Anymore,2025-11-14T05:52:51.099Z,,not required any more problem is cure 
+6916c4456f894b0639f16bd3,690c0da1a3c87fd7b0057cf3,Not Connected,Busy,Busy,2025-11-14T05:55:17.396Z,2025-11-15T15:00:00.000Z,
+6916c7026f894b0639f16bd6,691161328e9debf284a2feba,Connected,IP Decision Pending,Follow Up,2025-11-14T06:06:58.311Z,2025-11-18T11:00:00.000Z,"pt. is intersted  ,he confirm the tentative (20 nov) date also "
+6916c9526f894b0639f16bda,690c0d8fa3c87fd7b0057cb2,Connected,Not Interested,Others,2025-11-14T06:16:50.782Z,,"ip no 231210
+pt. is oprated on 31/10/2025in blk max "
+6916cad96f894b0639f16bdd,690c0d9fa3c87fd7b0057cea,Connected,IP Decision Pending,On Medications,2025-11-14T06:23:21.429Z,2025-11-15T15:00:00.000Z,"pt. is on medication, admission is not required anymore "
+6916cb4c6f894b0639f16bdf,691161028e9debf284a2fe0c,Not Connected,Busy,Busy,2025-11-14T06:25:16.374Z,2025-11-15T11:55:00.000Z,
+6916cbe16f894b0639f16be1,6911610b8e9debf284a2fe2a,Connected,Not Interested,Admitted Elsewhere,2025-11-14T06:27:45.048Z,,surgery done is artemis hospital 
+6916ccc36f894b0639f16be4,691161338e9debf284a2fec0,Not Connected,Busy,Busy,2025-11-14T06:31:31.016Z,2025-11-15T15:00:00.000Z,
+6916cd6c6f894b0639f16be7,6911611d8e9debf284a2fe6c,Connected,Not Interested,Admitted Elsewhere,2025-11-14T06:34:20.103Z,,surgery is done outside 
+6916ceb86f894b0639f16beb,691161308e9debf284a2feb3,Connected,Not Interested,Not Required Anymore,2025-11-14T06:39:52.162Z,,"surgery is done ,call is not answering but as per his data admission is done  in blk max on 08/09/2025( ip no 224443) "
+6916cff06f894b0639f16bef,691160fd8e9debf284a2fdf9,Connected,Not Interested,Not Required Anymore,2025-11-14T06:45:04.723Z,,surgery is done in gangaram hospital 
+6916d2d26f894b0639f16bf2,691161088e9debf284a2fe20,Connected,Operational Concerns,Reports Pending,2025-11-14T06:57:22.936Z,2025-12-20T12:25:00.000Z,"pt. is on medication for 90 day 
+doctor decide after echo report"
+69170c286f894b0639f16c4e,6911610b8e9debf284a2fe29,Connected,Not Interested,Admitted Elsewhere,2025-11-14T11:02:00.717Z,,surgery done in krishan hospital near by home 
+69170ced6f894b0639f16c52,6911610f8e9debf284a2fe38,Not Connected,Busy,Busy,2025-11-14T11:05:17.177Z,2025-11-15T16:00:00.000Z,
+69170d836f894b0639f16c55,691161108e9debf284a2fe3b,Connected,Not Interested,Not Required Anymore,2025-11-14T11:07:47.333Z,,patient is heal now  surgery not required any more 
+69170ec96f894b0639f16c5c,6911611e8e9debf284a2fe71,Connected,IP Decision Pending,On Medications,2025-11-14T11:13:13.941Z,2025-12-10T16:00:00.000Z,patient ins on medication after 1 month ( 1 month medication start from 1 nov to 30th nov ) need to connect again and provide appointment for opd 
+69170f336f894b0639f16c5e,691161208e9debf284a2fe79,Connected,Not Interested,Admitted Elsewhere,2025-11-14T11:14:59.322Z,,surgery done in balaji action hospital 
+691712176f894b0639f16c65,691161498e9debf284a2ff10,Connected,IP Decision Pending,On Medications,2025-11-14T11:27:19.999Z,2025-11-15T16:00:00.000Z,"after consulation dr. decide surgery is required or not , according to pt. he is healing "
+691717306f894b0639f16c69,690a8eae0a925c8ae55f8d93,Connected,IP Decision Pending,Follow Up,2025-11-14T11:49:04.051Z,2025-11-15T17:00:00.000Z,pt. is taking consultation in gurugram max need to connect on 15/11/2025
+691718cc6f894b0639f16c6f,690c0d80a3c87fd7b0057c73,Not Connected,Busy,Follow Up,2025-11-14T11:55:56.083Z,2025-11-15T16:00:00.000Z,
+691719d36f894b0639f16c75,690c0d8ea3c87fd7b0057cad,Connected,Not Interested,Admitted Elsewhere,2025-11-14T12:00:19.918Z,,surgery done in saket max 
+69171a796f894b0639f16c78,691161218e9debf284a2fe7d,Connected,IP Decision Pending,Follow Up,2025-11-14T12:03:05.438Z,2025-11-19T17:00:00.000Z,"pt. is ourt of town now now idea when they come back to delhi , need to connect again "
+69171caf6f894b0639f16c7e,6911611e8e9debf284a2fe6f,Not Connected,Busy,Busy,2025-11-14T12:12:31.458Z,2025-11-15T17:00:00.000Z,
+69171d316f894b0639f16c81,691161348e9debf284a2fec1,Connected,IP Decision Pending,Follow Up,2025-11-14T12:14:41.864Z,2025-11-15T17:44:00.000Z,need to connect again 
+69171e056f894b0639f16c85,691161518e9debf284a2ff2c,Not Connected,Busy,Busy,2025-11-14T12:18:13.106Z,2025-11-15T17:48:00.000Z,
+69171e606f894b0639f16c88,6911611c8e9debf284a2fe68,Not Connected,Busy,Busy,2025-11-14T12:19:44.899Z,2025-11-15T16:00:00.000Z,
+69171ec36f894b0639f16c8b,690ada5e2207dbd6e3006bab,Not Connected,Busy,Busy,2025-11-14T12:21:23.110Z,2025-11-15T17:00:00.000Z,
+69171f536f894b0639f16c8d,690ada612207dbd6e3006bb4,Not Connected,Busy,Busy,2025-11-14T12:23:47.424Z,2025-11-15T17:00:00.000Z,
+6917212b6f894b0639f16c91,6911612c8e9debf284a2fea7,Connected,IP Decision Pending,Fitness Awaited,2025-11-14T12:31:39.301Z,2025-11-15T17:00:00.000Z,"pt. is coming on saturday for consult in p.a.c dep. 
+after that need to connect again"
+691721916f894b0639f16c93,690c0d88a3c87fd7b0057c96,Not Connected,Busy,Busy,2025-11-14T12:33:21.638Z,2025-11-15T18:00:00.000Z,
+691722fe6f894b0639f16c94,690c0da1a3c87fd7b0057cf2,Connected,Not Interested,Not Required Anymore,2025-11-14T12:39:26.725Z,,"pt. is on medication ( with some other inj.)
+rituximab inj is not required anymore "
+691854605e041e7324b5a04b,690c0d86a3c87fd7b0057c8d,Connected,IP Decision Pending,Follow Up,2025-11-15T10:22:24.840Z,2025-12-15T15:00:00.000Z,pt. is intersted by date and time is not confirm
+691854e05e041e7324b5a04d,691161348e9debf284a2fec1,Not Connected,Busy,Busy,2025-11-15T10:24:32.873Z,2025-11-16T15:54:00.000Z,
+6918560a5e041e7324b5a051,6911612c8e9debf284a2fea7,Connected,IP Decision Pending,Fitness Awaited,2025-11-15T10:29:30.274Z,2025-11-18T15:57:00.000Z,"THYROID RADIO-ISOTOPE SCAN report is pending , report result come on tuesday 
+after consult decide pt. is fit for surgery or not "
+69185b205e041e7324b5a05a,6911612e8e9debf284a2feac,Not Connected,Busy,Busy,2025-11-15T10:51:12.182Z,2025-11-17T16:21:00.000Z,
+69185f3d5e041e7324b5a066,690c0d94a3c87fd7b0057cc3,Connected,IP Decision Pending,Follow Up,2025-11-15T11:08:45.257Z,2025-11-30T16:38:00.000Z,"PT. IS INTERSTED PACEMAKER date is not decide but. pt. is interested 
+IMPLANTATION SURGERY IS STILL PENDING DATE AND TIME IS NOT CONFIRMED BY PT."
+691863295e041e7324b5a072,690a8eae0a925c8ae55f8d93,Connected,Financial Concerns,TPA Insurance Issues,2025-11-15T11:25:29.397Z,2025-11-17T16:52:00.000Z,"pt. implant cost is 8 lacs +5%gst 
+pt. previous t.p.a is hdfc ( 2 times t.p.a is already rejected ) now. pt. said he has tata aig ins. , need to connect again "
+69186f335e041e7324b5a088,691161328e9debf284a2feba,Connected,Admission In Process,Admission Tentative,2025-11-15T12:16:51.020Z,2025-11-20T15:00:00.000Z,"pt. is intersted ,he confirm the tentative (20 nov) date also"
+691870385e041e7324b5a08c,690c0d95a3c87fd7b0057cc8,Connected,IP Decision Pending,Follow Up,2025-11-15T12:21:12.966Z,2025-11-17T17:50:00.000Z,8638827887( pt.self ) need to connect again
+691871165e041e7324b5a090,6911611a8e9debf284a2fe62,Not Connected,Busy,Busy,2025-11-15T12:24:54.737Z,2025-11-17T17:00:00.000Z,
+691874255e041e7324b5a099,691161198e9debf284a2fe5e,Connected,IP Decision Pending,Follow Up,2025-11-15T12:37:57.426Z,2025-11-20T18:04:00.000Z,"pt. is out of town (raipur)
+she visit delhi after a week Tentative time ) but pt. is not intersted in angio"
+691af9fe5e041e7324b5a114,691161508e9debf284a2ff29,Connected,IP Decision Pending,Follow Up,2025-11-17T10:33:34.376Z,2025-11-18T16:02:00.000Z,call attneding person is busy need to connnect again 
+691afabc5e041e7324b5a119,6911613f8e9debf284a2feea,Connected,Not Interested,Not Required Anymore,2025-11-17T10:36:44.314Z,,pt. is heal now no surgery required 
+691afcd65e041e7324b5a11f,690a8f040a925c8ae55f8d94,Connected,Not Interested,Not Required Anymore,2025-11-17T10:45:42.249Z,2025-11-18T16:11:00.000Z,"as per his data sugery is done (ip. no. 225111 )pt. is alreday admiited in blk-max (12/09/2025)
+"
+691afd395e041e7324b5a121,691161488e9debf284a2ff0c,Not Connected,Switch Off,Switch Off,2025-11-17T10:47:21.634Z,2025-11-18T16:17:00.000Z,
+691afe685e041e7324b5a12a,690c0d82a3c87fd7b0057c7b,Connected,IP Decision Pending,Follow Up,2025-11-17T10:52:24.091Z,2025-11-18T16:00:00.000Z,"medicine are finished 
+suggest for consult( need to connect on 18/11/2025)"
+691aff8b5e041e7324b5a130,691161158e9debf284a2fe4e,Connected,Not Interested,Others,2025-11-17T10:57:15.726Z,,pt. dont want surgery ( age factor) 
+691affd85e041e7324b5a132,6911613b8e9debf284a2fedd,Not Connected,Busy,Busy,2025-11-17T10:58:32.534Z,2025-11-18T16:28:00.000Z,
+691b00ad5e041e7324b5a134,691161048e9debf284a2fe14,Connected,IP Decision Pending,Follow Up,2025-11-17T11:02:05.837Z,2025-12-31T16:31:00.000Z,"pt. decide his sugery month (jan or feb) 
+need to connect gain in dec end "
+691b01ca5e041e7324b5a13b,6911610c8e9debf284a2fe2f,Connected,IP Decision Pending,Follow Up,2025-11-17T11:06:50.256Z,2025-12-01T16:35:00.000Z,"pt. is interested  but they decide dec month for surgery, need to connect again in starting of dec month "
+691b02545e041e7324b5a13e,691161478e9debf284a2ff07,Connected,Not Interested,Admitted Elsewhere,2025-11-17T11:09:08.026Z,,surgery done in fortis hospital 
+691b034c5e041e7324b5a142,6911612a8e9debf284a2fe9e,Not Connected,Switch Off,Switch Off,2025-11-17T11:13:16.948Z,2025-11-18T16:00:00.000Z,
+691b05015e041e7324b5a146,690c0d80a3c87fd7b0057c74,Connected,Not Interested,Not Required Anymore,2025-11-17T11:20:33.281Z,,pt. is on dialysis under dr. sunil prakash 
+691b06b65e041e7324b5a149,691161528e9debf284a2ff33,Connected,IP Decision Pending,Follow Up,2025-11-17T11:27:50.097Z,2025-11-30T16:55:00.000Z,"pt. is intersted ( out of town ) in month end he visit delhi 
+then he decide the surgery date ( need to connect again ), he is on medicine (cholostrol )"
+691b07695e041e7324b5a14b,691161048e9debf284a2fe12,Not Connected,Busy,Busy,2025-11-17T11:30:49.730Z,2025-11-18T17:00:00.000Z,
+691b07bc5e041e7324b5a14d,691161138e9debf284a2fe48,Not Connected,Busy,Busy,2025-11-17T11:32:12.478Z,2025-11-18T17:00:00.000Z,
+691b09c85e041e7324b5a156,6911612f8e9debf284a2feb0,Connected,Operational Concerns,Reports Pending,2025-11-17T11:40:56.517Z,2025-11-19T17:09:00.000Z," pt. report is pending  need to connect again on 19/11/2025 
+pt. is having hepatitis b ( liver issue ) problem ,physian advice 1.5 months medicine, after issue settle dr. go for surgery but at present pt. is out of town they visit on 17/11/2025"
+691b0d935e041e7324b5a15e,690c0d95a3c87fd7b0057cc8,Connected,IP Decision Pending,Follow Up,2025-11-17T11:57:07.568Z,2025-11-18T17:00:00.000Z,8638664913 ( pt. new contact no ) explain pt. condition to ptient daughter ( need to connect again ) 
+691b0ec25e041e7324b5a162,690c0d9fa3c87fd7b0057cea,Connected,Not Interested,Not Required Anymore,2025-11-17T12:02:10.049Z,,pt. is on medication surgery is not required ( age factor) 75 years
+691b10305e041e7324b5a168,691161498e9debf284a2ff10,Not Connected,Busy,Busy,2025-11-17T12:08:16.058Z,2025-11-18T17:38:00.000Z,
+691b10b35e041e7324b5a16c,6911614c8e9debf284a2ff1a,Not Connected,Busy,Busy,2025-11-17T12:10:27.163Z,2025-11-18T17:40:00.000Z,
+691b12fe5e041e7324b5a178,690c0d9da3c87fd7b0057ce3,Connected,IP Decision Pending,Follow Up,2025-11-17T12:20:14.796Z,2025-11-21T17:00:00.000Z,"pt. is out of town
+pt. visit delhi after 3-4 days 
+after consulation decide , need to connect again on 21/11/2025( for confirmation) "
+691b139a5e041e7324b5a17a,6911612e8e9debf284a2feac,Connected,Not Interested,Admitted Elsewhere,2025-11-17T12:22:50.778Z,,surgery is done outside 
+691b14445e041e7324b5a17d,690c0d93a3c87fd7b0057cbf,Not Connected,Busy,Busy,2025-11-17T12:25:40.841Z,2025-11-18T17:55:00.000Z,
+691b15a95e041e7324b5a17f,691161318e9debf284a2feb6,Connected,IP Decision Pending,Follow Up,2025-11-17T12:31:37.561Z,2025-11-18T18:00:00.000Z,( own contact  no share with pt. att. for reports because reports are not see by doctor or co-ordinator 
+691b16195e041e7324b5a181,690a8f920a925c8ae55f8da0,Connected,Not Interested,Others,2025-11-17T12:33:29.204Z,,pt. admistted in 24 Oct
+691b16375e041e7324b5a182,690c0d79a3c87fd7b0057c5a,Connected,Not Interested,Others,2025-11-17T12:33:59.169Z,,pt. is alreday admitted under dr. dharma
+691b16545e041e7324b5a183,690c0d9ba3c87fd7b0057cde,Connected,Not Interested,Others,2025-11-17T12:34:28.137Z,,admitted on sep
+691b17d05e041e7324b5a184,690c0d8ba3c87fd7b0057ca2,Not Connected,Wrong Number,Wrong Number,2025-11-17T12:40:48.554Z,,
+691c24865e041e7324b5a1cc,690a8eae0a925c8ae55f8d93,Connected,Financial Concerns,TPA Insurance Issues,2025-11-18T07:47:18.810Z,2025-11-21T13:13:00.000Z,"estimate share on whatsapp ( hdfc) 
+waiting for apporval (already two times rejected by insurance ) supportive paper is also write by doc."
+691dafdcafa152fd486eece5,6911613d8e9debf284a2fee5,Not Connected,Switch Off,Switch Off,2025-11-19T11:54:04.565Z,2025-11-20T15:26:00.000Z,
+691c25e05e041e7324b5a1d3,6911612c8e9debf284a2fea5,Connected,IP Decision Pending,Estimate Taken,2025-11-18T07:53:04.772Z,2025-11-21T13:23:00.000Z,"intial estimate amount is 7.70k
+final offier from doc. side is 5.50k 
+but pt. is tuck on 2.50k
+conversation on whatsapp"
+691c26ba5e041e7324b5a1d8,690ada5e2207dbd6e3006bab,Connected,IP Decision Pending,Follow Up,2025-11-18T07:56:42.339Z,2025-11-19T13:25:00.000Z,"nivabhupa( hysteroscopic ,endometrial polyp)
+about insurance already inform to pt. on whatsapp 
+"
+691c278a5e041e7324b5a1dc,690c0d87a3c87fd7b0057c91,Not Connected,Busy,Busy,2025-11-18T08:00:10.877Z,2025-11-22T13:30:00.000Z,
+691c29825e041e7324b5a1e1,691161138e9debf284a2fe47,Not Connected,Busy,Busy,2025-11-18T08:08:34.671Z,2025-11-22T13:38:00.000Z,
+691c29cb5e041e7324b5a1e2,691161038e9debf284a2fe0e,Not Connected,Busy,Busy,2025-11-18T08:09:47.332Z,2025-11-25T13:39:00.000Z,
+691c2a4f5e041e7324b5a1e6,690c0d85a3c87fd7b0057c88,Not Connected,Busy,Busy,2025-11-18T08:11:59.697Z,2025-11-21T13:41:00.000Z,
+691c2a895e041e7324b5a1e8,691161348e9debf284a2fec2,Not Connected,Busy,Busy,2025-11-18T08:12:57.575Z,2025-11-21T13:42:00.000Z,
+691c2adb5e041e7324b5a1ea,690c0d84a3c87fd7b0057c84,Not Connected,Busy,Busy,2025-11-18T08:14:19.946Z,2025-11-21T13:44:00.000Z,
+691c2afb5e041e7324b5a1ec,690c0d8ea3c87fd7b0057cab,Not Connected,Switch Off,Switch Off,2025-11-18T08:14:51.065Z,2025-11-21T13:44:00.000Z,
+691c2b4d5e041e7324b5a1ed,6911614a8e9debf284a2ff11,Not Connected,Busy,Busy,2025-11-18T08:16:13.901Z,2025-11-21T13:46:00.000Z,
+691c2be65e041e7324b5a1f0,691161268e9debf284a2fe90,Not Connected,Invalid,Invalid,2025-11-18T08:18:46.630Z,,
+691c2c395e041e7324b5a1f1,690c0d98a3c87fd7b0057cd3,Not Connected,Busy,Busy,2025-11-18T08:20:09.856Z,2025-11-21T13:50:00.000Z,
+691dad3aafa152fd486eece1,6911612c8e9debf284a2fea6,Not Connected,Busy,Busy,2025-11-19T11:42:50.100Z,2025-11-20T13:18:00.000Z,
+691daddfafa152fd486eece2,691161528e9debf284a2ff31,Not Connected,Busy,Busy,2025-11-19T11:45:35.155Z,2025-11-20T15:18:00.000Z,
+691dae63afa152fd486eece3,691161388e9debf284a2fecf,Connected,Not Interested,Not Required Anymore,2025-11-19T11:47:47.443Z,,no need for the treatment 
+691daf40afa152fd486eece4,6911614a8e9debf284a2ff13,Connected,Not Interested,Admitted Elsewhere,2025-11-19T11:51:28.724Z,,admiited in AIIMS
+691db05bafa152fd486eece6,6911614e8e9debf284a2ff21,Not Connected,Busy,Busy,2025-11-19T11:56:11.403Z,2025-11-20T15:29:00.000Z,
+691db0f8afa152fd486eece7,691161428e9debf284a2fef6,Connected,Not Interested,Not Required Anymore,2025-11-19T11:58:48.068Z,,ALREADY PROCRDURE WAS DONE
+691db150afa152fd486eece8,691161428e9debf284a2fef4,Not Connected,Switch Off,Switch Off,2025-11-19T12:00:16.721Z,2025-11-20T14:32:00.000Z,
+691db220afa152fd486eece9,6911614c8e9debf284a2ff19,Connected,Not Interested,Others,2025-11-19T12:03:44.778Z,,NO NEED FOR FURTHER TREATMENT. NOT TO CALL  AGAIN
+691db324afa152fd486eecea,691161318e9debf284a2feb7,Connected,Not Interested,Not Required Anymore,2025-11-19T12:08:04.172Z,,Pt. treatment was on going with medicine no need for procedure 
+691db38dafa152fd486eeceb,6911614d8e9debf284a2ff1e,Not Connected,Busy,Busy,2025-11-19T12:09:49.705Z,2025-11-20T15:42:00.000Z,
+691db478afa152fd486eecec,6911613f8e9debf284a2feeb,Connected,Not Interested,Admitted Elsewhere,2025-11-19T12:13:44.520Z,,surgery was done in pan max ( shalimar bagh)
+691db504afa152fd486eeced,691161498e9debf284a2ff0f,Connected,Not Interested,Patient Expired,2025-11-19T12:16:04.528Z,,.. expired
+691db55eafa152fd486eecee,6911613b8e9debf284a2fedb,Not Connected,Busy,Busy,2025-11-19T12:17:34.372Z,2025-11-20T12:53:00.000Z,
+691db65dafa152fd486eecef,691161508e9debf284a2ff28,Connected,Not Interested,Admitted Elsewhere,2025-11-19T12:21:49.308Z,,treatment is on going in balaji hospital
+691db75eafa152fd486eecf0,6911610d8e9debf284a2fe31,Not Connected,Busy,Busy,2025-11-19T12:26:06.947Z,2025-11-20T15:59:00.000Z,
+691db849afa152fd486eecf1,6911611a8e9debf284a2fe62,Connected,Financial Concerns,TPA Insurance Issues,2025-11-19T12:30:01.605Z,2025-12-01T11:02:00.000Z,"patient is waiting for his medical card from office,  planning for surgery next  month  remind call for treatment."
+691eedfeafa152fd486eed5b,691161018e9debf284a2fe07,Not Connected,Lead Closed,Lead Closed,2025-11-20T10:31:26.360Z,,marketing
+691eee7aafa152fd486eed5c,691161008e9debf284a2fe03,Not Connected,Busy,Busy,2025-11-20T10:33:30.983Z,2025-11-21T15:08:00.000Z,
+691eef37afa152fd486eed5d,690c0da4a3c87fd7b0057cfd,Connected,Not Interested,Admitted Elsewhere,2025-11-20T10:36:39.676Z,,procedure was already done from other hospital
+691eefebafa152fd486eed5f,691161128e9debf284a2fe42,Connected,Not Interested,Not Required Anymore,2025-11-20T10:39:39.632Z,,as per pt. procedure was done with the medications surgery not required
+691ef03eafa152fd486eed61,691161128e9debf284a2fe43,Not Connected,Busy,Busy,2025-11-20T10:41:02.774Z,2025-11-21T14:15:00.000Z,
+691ef0dfafa152fd486eed62,6911610b8e9debf284a2fe2b,Connected,Not Interested,Admitted Elsewhere,2025-11-20T10:43:43.796Z,,procedure was done in ganga ram hospital
+691ef3f4afa152fd486eed66,691161028e9debf284a2fe0c,Connected,Not Interested,Not Required Anymore,2025-11-20T10:56:52.013Z,,procedure was done with the medications 
+691ef4c5afa152fd486eed69,6911610f8e9debf284a2fe38,Not Connected,Busy,Busy,2025-11-20T11:00:21.952Z,2025-11-21T12:33:00.000Z,
+691ef521afa152fd486eed6a,6911611e8e9debf284a2fe6f,Not Connected,Switch Off,Switch Off,2025-11-20T11:01:53.214Z,2025-11-21T14:35:00.000Z,
+691ef56dafa152fd486eed6c,691161518e9debf284a2ff2c,Not Connected,Busy,Busy,2025-11-20T11:03:09.533Z,2025-11-21T04:33:00.000Z,
+691ef5beafa152fd486eed6e,691161338e9debf284a2fec0,Not Connected,Busy,Busy,2025-11-20T11:04:30.305Z,2025-11-21T16:34:00.000Z,
+691ef6beafa152fd486eed71,691161338e9debf284a2fec0,Not Connected,Busy,Busy,2025-11-20T11:08:46.685Z,2025-11-21T13:42:00.000Z,
+691ef70fafa152fd486eed73,6911611e8e9debf284a2fe6f,Not Connected,Switch Off,Switch Off,2025-11-20T11:10:07.819Z,2025-11-21T15:45:00.000Z,
+691ef7d8afa152fd486eed75,6911611e8e9debf284a2fe6f,Connected,Not Interested,Not Required Anymore,2025-11-20T11:13:28.039Z,,patient doesnt want to consult due to age 
+691ef849afa152fd486eed77,6911611c8e9debf284a2fe68,Not Connected,Busy,Busy,2025-11-20T11:15:21.484Z,2025-11-21T14:49:00.000Z,
+691ef8a1afa152fd486eed78,691161518e9debf284a2ff2c,Not Connected,Busy,Busy,2025-11-20T11:16:49.180Z,2025-11-21T14:51:00.000Z,
+691ef8fdafa152fd486eed79,691161518e9debf284a2ff2c,Not Connected,Switch Off,Switch Off,2025-11-20T11:18:21.473Z,2025-11-21T14:52:00.000Z,
+691ef974afa152fd486eed7b,691161398e9debf284a2fed3,Not Connected,Busy,Busy,2025-11-20T11:20:20.935Z,2025-11-21T15:55:00.000Z,
+691ef9b7afa152fd486eed7c,690c0da3a3c87fd7b0057cf9,Not Connected,Switch Off,Switch Off,2025-11-20T11:21:27.453Z,2025-11-21T13:54:00.000Z,
+691efa0bafa152fd486eed7e,6911611a8e9debf284a2fe61,Not Connected,Busy,Busy,2025-11-20T11:22:51.794Z,2025-11-21T14:56:00.000Z,
+691efa5dafa152fd486eed7f,6911611a8e9debf284a2fe61,Not Connected,Busy,Busy,2025-11-20T11:24:13.868Z,2025-11-21T14:58:00.000Z,
+691efac8afa152fd486eed80,691161298e9debf284a2fe9a,Connected,Not Interested,Not Required Anymore,2025-11-20T11:26:00.398Z,,call cut after received 
+691efb03afa152fd486eed82,691161418e9debf284a2fef0,Not Connected,Switch Off,Switch Off,2025-11-20T11:26:59.950Z,2025-11-21T14:00:00.000Z,
+691efb4bafa152fd486eed84,691161218e9debf284a2fe7b,Not Connected,Busy,Busy,2025-11-20T11:28:11.939Z,2025-11-21T14:00:00.000Z,
+691efb96afa152fd486eed86,6911611b8e9debf284a2fe67,Not Connected,Busy,Busy,2025-11-20T11:29:26.013Z,2025-11-21T14:00:00.000Z,
+691efc47afa152fd486eed88,691161528e9debf284a2ff30,Connected,Not Interested,Admitted Elsewhere,2025-11-20T11:32:23.141Z,,procedure was done from other hospital
+691efd0aafa152fd486eed89,691161138e9debf284a2fe48,Connected,Not Interested,Admitted Elsewhere,2025-11-20T11:35:38.023Z,,due to high price procedure was done in sonipat
+691efdc7afa152fd486eed8a,691161098e9debf284a2fe22,Connected,Not Interested,Not Required Anymore,2025-11-20T11:38:47.333Z,,procedure was done with medications as per pt. admission was not required
+691efe06afa152fd486eed8b,691161048e9debf284a2fe12,Not Connected,Busy,Busy,2025-11-20T11:39:50.637Z,2025-11-21T14:12:00.000Z,
+691efeb3afa152fd486eed8c,6911612c8e9debf284a2fea6,Not Connected,Busy,Busy,2025-11-20T11:42:43.174Z,2025-11-21T15:16:00.000Z,
+691eff38afa152fd486eed8d,6911613d8e9debf284a2fee5,Not Connected,Switch Off,Switch Off,2025-11-20T11:44:56.278Z,2025-11-21T14:17:00.000Z,
+691f009dafa152fd486eed8f,691161428e9debf284a2fef4,Connected,Operational Concerns,Reports Pending,2025-11-20T11:50:53.863Z,2025-11-27T15:22:00.000Z,as per patient follow up in OPD not in IPD once consultation was done will take follow up in IPD as per pt. concern
+691f0491afa152fd486eed91,6911614e8e9debf284a2ff21,Not Connected,Busy,Busy,2025-11-20T12:07:45.968Z,2025-11-21T15:42:00.000Z,
+691f052cafa152fd486eed92,6911613b8e9debf284a2fedb,Connected,Not Interested,Not Required Anymore,2025-11-20T12:10:20.718Z,,procedure was done with the medications surgery not required as per pt.
+691f0581afa152fd486eed94,6911614d8e9debf284a2ff1e,Connected,Not Interested,Not Required Anymore,2025-11-20T12:11:45.007Z,,pt. already admitted in blk discharge in oct. consultation also not required  as per pt. 
+691f05b4afa152fd486eed95,691161528e9debf284a2ff31,Not Connected,Busy,Busy,2025-11-20T12:12:36.350Z,2025-11-21T13:44:00.000Z,
+691f0614afa152fd486eed96,6911610d8e9debf284a2fe31,Connected,Not Interested,Not Required Anymore,2025-11-20T12:14:12.903Z,,dont want to talk
+691f071bafa152fd486eed99,691161138e9debf284a2fe47,Connected,Not Interested,Patient Expired,2025-11-20T12:18:35.801Z,,patient expired
+6920329aafa152fd486eee04,691161348e9debf284a2fec1,Connected,Not Interested,Not Required Anymore,2025-11-21T09:36:26.355Z,,pt. is cure now 
+692032f4afa152fd486eee05,6911613e8e9debf284a2fee8,Not Connected,Switch Off,Switch Off,2025-11-21T09:37:56.667Z,2025-11-22T15:07:00.000Z,
+69203399afa152fd486eee09,6911612c8e9debf284a2fea7,Not Connected,Busy,Busy,2025-11-21T09:40:41.506Z,2025-11-22T15:10:00.000Z,
+692033e4afa152fd486eee0b,690ada612207dbd6e3006bb4,Not Connected,Busy,Busy,2025-11-21T09:41:56.242Z,2025-11-22T15:11:00.000Z,
+69203411afa152fd486eee0c,6911612c8e9debf284a2fea5,Not Connected,Busy,Busy,2025-11-21T09:42:41.961Z,2025-11-22T15:12:00.000Z,
+69203413afa152fd486eee0d,6911612c8e9debf284a2fea5,Not Connected,Busy,Busy,2025-11-21T09:42:43.262Z,2025-11-22T15:12:00.000Z,
+692034b0afa152fd486eee11,690c0d90a3c87fd7b0057cb5,Not Connected,Busy,Busy,2025-11-21T09:45:20.919Z,2025-11-22T15:15:00.000Z,
+692034f0afa152fd486eee13,6911613f8e9debf284a2feec,Not Connected,Busy,Busy,2025-11-21T09:46:24.804Z,2025-11-22T15:16:00.000Z,
+69203624afa152fd486eee1b,691161498e9debf284a2ff10,Connected,IP Decision Pending,Follow Up,2025-11-21T09:51:32.053Z,2025-11-26T15:20:00.000Z,"booked app. for dr. rajan madan 
+after that Dr. decide need of surgery "
+69203c50afa152fd486eee3d,690c0d7ca3c87fd7b0057c64,Connected,IP Decision Pending,On Medications,2025-11-21T10:17:52.393Z,2025-11-27T15:46:00.000Z,"recently eyes operation is  done in A.K.I.O HOSPITAL 
+case is complicated ( bleeding in retina ) no visiblity 
+need to connect again "
+69203cd0afa152fd486eee41,690c0d90a3c87fd7b0057cb5,Not Connected,Busy,Busy,2025-11-21T10:20:00.386Z,2025-11-22T15:49:00.000Z,
+69203d18afa152fd486eee44,6911613f8e9debf284a2feec,Not Connected,Busy,Busy,2025-11-21T10:21:12.974Z,2025-11-22T15:51:00.000Z,
+6920415bafa152fd486eee59,690c0d97a3c87fd7b0057cce,Connected,IP Decision Pending,Follow Up,2025-11-21T10:39:23.644Z,2025-11-26T16:09:00.000Z,"family friend 
+"
+692041c9afa152fd486eee5d,690c0d93a3c87fd7b0057cc1,Not Connected,Busy,Busy,2025-11-21T10:41:13.717Z,2025-11-22T16:11:00.000Z,
+69204215afa152fd486eee5e,690c0d95a3c87fd7b0057cc8,Not Connected,Busy,Busy,2025-11-21T10:42:29.968Z,2025-11-22T16:12:00.000Z,
+6920443cafa152fd486eee65,6911614a8e9debf284a2ff11,Not Connected,Switch Off,Switch Off,2025-11-21T10:51:40.166Z,2025-11-22T14:25:00.000Z,
+69204459afa152fd486eee66,6911614b8e9debf284a2ff17,Connected,IP Decision Pending,Follow Up,2025-11-21T10:52:09.999Z,2025-11-25T16:20:00.000Z,"pt. is intersted ,pt. want to consult first(25/11/2025) then after dr. advice they side "
+6920447dafa152fd486eee67,691161008e9debf284a2fe03,Not Connected,Busy,Busy,2025-11-21T10:52:45.126Z,2025-11-22T14:26:00.000Z,
+692044b9afa152fd486eee68,691161128e9debf284a2fe43,Not Connected,Busy,Busy,2025-11-21T10:53:45.917Z,2025-11-22T14:28:00.000Z,
+692044dcafa152fd486eee69,691161508e9debf284a2ff29,Not Connected,Busy,Busy,2025-11-21T10:54:20.063Z,2025-11-22T16:24:00.000Z,
+69204617afa152fd486eee6a,690c0d82a3c87fd7b0057c7b,Connected,Not Interested,Not Required Anymore,2025-11-21T10:59:35.302Z,,"pt. take second opinion 
+he decide to operate from them "
+6920464cafa152fd486eee6b,691161528e9debf284a2ff31,Not Connected,Busy,Busy,2025-11-21T11:00:28.551Z,2025-11-22T14:34:00.000Z,
+692046feafa152fd486eee6c,6911610f8e9debf284a2fe38,Not Connected,Busy,Busy,2025-11-21T11:03:26.289Z,2025-11-22T14:37:00.000Z,
+6920474bafa152fd486eee6d,6911611c8e9debf284a2fe68,Not Connected,Busy,Busy,2025-11-21T11:04:43.239Z,2025-11-22T14:38:00.000Z,
+692047d0afa152fd486eee6e,691161218e9debf284a2fe7d,Connected,IP Decision Pending,Follow Up,2025-11-21T11:06:56.233Z,2025-11-27T16:33:00.000Z,"pt. is not interested bcz, she take 2-3 times opinion G.I, After consult dr. said not required because size is very small 
+pt. decide after usg   "
+69204a38afa152fd486eee6f,690c0da3a3c87fd7b0057cfa,Connected,IP Decision Pending,Follow Up,2025-11-21T11:17:12.808Z,2025-11-26T16:44:00.000Z,"EPS + RF ABLATION (3D) att. is intersted but pt. is not mentally prepared for surgery , but i counslled , surgery is imp for her, winter is very challenging for her "
+69204ab7afa152fd486eee71,690c0da3a3c87fd7b0057cf9,Not Connected,Busy,Busy,2025-11-21T11:19:19.025Z,2025-11-22T14:53:00.000Z,
+69204b11afa152fd486eee73,6911611a8e9debf284a2fe61,Not Connected,Busy,Busy,2025-11-21T11:20:49.683Z,2025-11-22T14:54:00.000Z,
+69204b33afa152fd486eee74,690c0d9da3c87fd7b0057ce3,Connected,IP Decision Pending,Follow Up,2025-11-21T11:21:23.758Z,2025-11-26T16:51:00.000Z,"pt. is out of town pt. visit delhi after 3-4 days after consulation decide , need to connect again"
+69204b35afa152fd486eee75,690c0d9da3c87fd7b0057ce3,Connected,IP Decision Pending,Follow Up,2025-11-21T11:21:25.890Z,2025-11-26T16:51:00.000Z,"pt. is out of town pt. visit delhi after 3-4 days after consulation decide , need to connect again"
+69204b4cafa152fd486eee76,6911614e8e9debf284a2ff21,Not Connected,Busy,Busy,2025-11-21T11:21:48.607Z,2025-11-22T14:55:00.000Z,
+69204baaafa152fd486eee77,691161308e9debf284a2feb5,Not Connected,Busy,Busy,2025-11-21T11:23:22.776Z,2025-11-22T16:53:00.000Z,
+69204bb8afa152fd486eee78,691161218e9debf284a2fe7b,Not Connected,Busy,Busy,2025-11-21T11:23:36.396Z,2025-11-22T14:58:00.000Z,
+69204bdcafa152fd486eee79,690c0d87a3c87fd7b0057c91,Not Connected,Busy,Busy,2025-11-21T11:24:12.095Z,2025-11-22T16:54:00.000Z,
+69204cc4afa152fd486eee7c,6911611b8e9debf284a2fe67,Not Connected,Busy,Busy,2025-11-21T11:28:04.828Z,2025-11-22T14:00:00.000Z,
+69204d0aafa152fd486eee7d,691161048e9debf284a2fe12,Not Connected,Busy,Busy,2025-11-21T11:29:14.874Z,2025-11-22T15:00:00.000Z,
+69204d46afa152fd486eee7f,691161338e9debf284a2fec0,Not Connected,Busy,Busy,2025-11-21T11:30:14.781Z,2025-11-22T15:01:00.000Z,
+69204d75afa152fd486eee81,691161518e9debf284a2ff2c,Not Connected,Busy,Busy,2025-11-21T11:31:01.226Z,2025-11-22T17:00:00.000Z,
+69204da7afa152fd486eee83,691161398e9debf284a2fed3,Not Connected,Busy,Busy,2025-11-21T11:31:51.414Z,2025-11-22T16:07:00.000Z,
+69204df6afa152fd486eee85,691161418e9debf284a2fef0,Not Connected,Busy,Busy,2025-11-21T11:33:10.214Z,2025-11-22T15:07:00.000Z,
+69204f81afa152fd486eee88,6911612c8e9debf284a2fea6,Not Connected,Busy,Busy,2025-11-21T11:39:45.776Z,2025-11-22T15:13:00.000Z,
+69204f82afa152fd486eee89,6911612c8e9debf284a2fea6,Not Connected,Busy,Busy,2025-11-21T11:39:46.422Z,2025-11-22T15:13:00.000Z,
+69205013afa152fd486eee8a,6911613d8e9debf284a2fee5,Not Connected,Busy,Busy,2025-11-21T11:42:11.182Z,2025-11-22T14:16:00.000Z,
+69205069afa152fd486eee8b,691161348e9debf284a2fec2,Not Connected,Busy,Busy,2025-11-21T11:43:37.214Z,2025-11-22T15:17:00.000Z,
+692050baafa152fd486eee8c,691161038e9debf284a2fe0e,Not Connected,Switch Off,Switch Off,2025-11-21T11:44:58.053Z,2025-11-22T15:18:00.000Z,
+6920515fafa152fd486eee8e,691161018e9debf284a2fe07,Not Connected,Busy,Busy,2025-11-21T11:47:43.249Z,2025-11-22T15:22:00.000Z,
+69205a9cafa152fd486eee8f,690c0d84a3c87fd7b0057c85,Connected,IP Decision Pending,Follow Up,2025-11-21T12:27:08.919Z,2026-01-01T17:54:00.000Z,pt. is good now ( north east ) pt. visit Delhi in jan 
+692156d4afa152fd486eee99,690c0d86a3c87fd7b0057c8d,Connected,IP Decision Pending,Follow Up,2025-11-22T06:23:16.571Z,2026-02-01T11:52:00.000Z,"marriage at home
+after january "
+69215806afa152fd486eee9a,691161328e9debf284a2feba,Connected,IP Decision Pending,Follow Up,2025-11-22T06:28:22.891Z,2025-11-25T11:58:00.000Z,"pt. is intersted but, date is not confirmed "
+69215911afa152fd486eee9b,690c0d8ca3c87fd7b0057ca6,Not Connected,Busy,Busy,2025-11-22T06:32:49.508Z,2025-11-23T12:02:00.000Z,
+69215957afa152fd486eee9c,6911611e8e9debf284a2fe70,Not Connected,Busy,Busy,2025-11-22T06:33:59.690Z,2025-11-23T12:04:00.000Z,
+692159c2afa152fd486eee9e,691161198e9debf284a2fe5f,Not Connected,Busy,Busy,2025-11-22T06:35:46.232Z,2025-11-23T12:05:00.000Z,
+69215a7cafa152fd486eeea1,690c0d81a3c87fd7b0057c78,Connected,Not Interested,Not Required Anymore,2025-11-22T06:38:52.159Z,,pt. is perfectly fine now 
+69215b1eafa152fd486eeea4,690c0d7ea3c87fd7b0057c6e,Not Connected,Busy,Busy,2025-11-22T06:41:34.735Z,2025-11-23T12:11:00.000Z,
+69215c20afa152fd486eeea8,690ada622207dbd6e3006bb7,Not Connected,Busy,Busy,2025-11-22T06:45:52.785Z,2025-11-23T12:15:00.000Z,
+69215cdaafa152fd486eeeab,691161288e9debf284a2fe96,Connected,IP Decision Pending,Follow Up,2025-11-22T06:48:58.837Z,2025-11-22T13:19:00.000Z,need to connect again 
+69215da2afa152fd486eeeae,691161258e9debf284a2fe8a,Not Connected,Busy,Busy,2025-11-22T06:52:18.689Z,2025-11-23T12:22:00.000Z,
+69215e9fafa152fd486eeeb4,6911612c8e9debf284a2fea4,Not Connected,Busy,Busy,2025-11-22T06:56:31.461Z,2025-11-23T12:26:00.000Z,
+69215edbafa152fd486eeeb6,690c0d9aa3c87fd7b0057cda,Not Connected,Busy,Busy,2025-11-22T06:57:31.831Z,2025-11-23T12:27:00.000Z,
+692161b2afa152fd486eeec0,690c0d9ca3c87fd7b0057ce2,Connected,IP Decision Pending,On Medications,2025-11-22T07:09:38.440Z,2025-11-26T12:36:00.000Z,"pt. is coming on tuesday for consult,
+as per pt.Symptoms,  need to change of medication ."
+6921758bafa152fd486eef10,690c0d86a3c87fd7b0057c8e,Connected,Not Interested,Admitted Elsewhere,2025-11-22T08:34:19.097Z,,admitted elsewhere
+69216386afa152fd486eeec4,690c0da4a3c87fd7b0057d00,Connected,Not Interested,Admitted Elsewhere,2025-11-22T07:17:26.150Z,,"some one told from ot department ( as per patient ) 
+person said to pt. you are not getting any claim for fistula creation so, pt. visit in gangaram hospital "
+69216402afa152fd486eeec7,691161168e9debf284a2fe51,Not Connected,Busy,Busy,2025-11-22T07:19:30.556Z,2025-11-23T12:49:00.000Z,
+692164a5afa152fd486eeeca,690ada5f2207dbd6e3006bad,Not Connected,Busy,Busy,2025-11-22T07:22:13.906Z,2025-11-23T12:52:00.000Z,
+6921667eafa152fd486eeed0,690a8f410a925c8ae55f8d9b,Connected,Not Interested,Not Required Anymore,2025-11-22T07:30:06.554Z,,"pt. is okay now no need to admit 
+"
+6921683dafa152fd486eeed6,690c0d79a3c87fd7b0057c5b,Connected,IP Decision Pending,Follow Up,2025-11-22T07:37:33.898Z,2025-11-23T13:06:00.000Z,"7018337955( pt. self contact )
+need to connect again 
+pt. is live in haridawar , still fistula is not created but need as dr. advice  "
+69216b83afa152fd486eeee5,6911612b8e9debf284a2fea1,Not Connected,Busy,Busy,2025-11-22T07:51:31.959Z,2025-11-23T13:21:00.000Z,
+69216d7bafa152fd486eeeee,690c0d88a3c87fd7b0057c95,Connected,IP Decision Pending,Second Opinion,2025-11-22T07:59:55.747Z,2025-11-22T14:29:00.000Z,pt. take second opinion with Dr.Atul Prasad  adviced Cervical decompression need to connect again after 3 pm 
+69216ec0afa152fd486eeef6,691161288e9debf284a2fe96,Connected,Not Interested,Not Required Anymore,2025-11-22T08:05:20.341Z,,surgery done in delhi heart and lung institute
+69216f93afa152fd486eeefc,690ada602207dbd6e3006baf,Not Connected,Busy,Busy,2025-11-22T08:08:51.173Z,2025-11-23T13:38:00.000Z,
+692170d9afa152fd486eef00,690c0d7da3c87fd7b0057c69,Not Connected,Busy,Busy,2025-11-22T08:14:17.768Z,2025-11-23T13:44:00.000Z,
+692171bfafa152fd486eef03,690c0d82a3c87fd7b0057c7c,Connected,Not Interested,Not Required Anymore,2025-11-22T08:18:07.440Z,,"pt. is out of town and perfectly fine ,
+she consult near by home "
+6921720fafa152fd486eef05,691161238e9debf284a2fe82,Not Connected,Busy,Busy,2025-11-22T08:19:27.955Z,2025-11-24T13:49:00.000Z,
+6921724fafa152fd486eef06,691161268e9debf284a2fe8e,Not Connected,Busy,Busy,2025-11-22T08:20:31.384Z,2025-11-24T13:50:00.000Z,
+692173cfafa152fd486eef0b,690c0d79a3c87fd7b0057c59,Connected,Not Interested,Not Required Anymore,2025-11-22T08:26:55.205Z,,"7503672879 pt contact no 
+pt. take inection neary by home "
+692174c0afa152fd486eef0d,690c0d80a3c87fd7b0057c73,Connected,Not Interested,Not Required Anymore,2025-11-22T08:30:56.884Z,,pt. is on medication admission is not required as pr dr. vishal saxena 
+6921761aafa152fd486eef12,6911614c8e9debf284a2ff1a,Not Connected,Busy,Busy,2025-11-22T08:36:42.440Z,2025-11-24T14:06:00.000Z,
+69218612afa152fd486eef13,690c0d88a3c87fd7b0057c96,Not Connected,Busy,Busy,2025-11-22T09:44:50.978Z,2025-11-24T15:14:00.000Z,
+692186f3afa152fd486eef14,690ada612207dbd6e3006bb2,Not Connected,Busy,Busy,2025-11-22T09:48:35.971Z,2025-11-26T15:18:00.000Z,
+6921888eafa152fd486eef15,690ada5f2207dbd6e3006bac,Not Connected,Busy,Busy,2025-11-22T09:55:26.058Z,2025-11-26T15:25:00.000Z,
+6921893dafa152fd486eef17,690ada5e2207dbd6e3006bab,Not Connected,Busy,Busy,2025-11-22T09:58:21.174Z,2025-11-25T15:28:00.000Z,
+69218bd3afa152fd486eef23,691161308e9debf284a2feb5,Not Connected,Busy,Busy,2025-11-22T10:09:23.187Z,2025-11-24T15:39:00.000Z,
+69218c92afa152fd486eef26,691161508e9debf284a2ff29,Connected,Not Interested,Not Required Anymore,2025-11-22T10:12:34.066Z,,"pt. is cure now, not required anymore "
+69218cd1afa152fd486eef29,690c0d87a3c87fd7b0057c91,Not Connected,Busy,Busy,2025-11-22T10:13:37.424Z,2025-11-23T15:43:00.000Z,
+69218d39afa152fd486eef2c,690c0d93a3c87fd7b0057cc1,Not Connected,Busy,Busy,2025-11-22T10:15:21.904Z,2025-11-24T15:45:00.000Z,
+69218d60afa152fd486eef2e,690c0d95a3c87fd7b0057cc8,Not Connected,Busy,Busy,2025-11-22T10:16:00.513Z,2025-11-24T15:46:00.000Z,
+69218ffdafa152fd486eef33,690ada622207dbd6e3006bb6,Connected,Not Interested,Not Required Anymore,2025-11-22T10:27:09.972Z,,"case refer to dr.Manav Wadhawan
+not required for admission 
+only medication "
+69219120afa152fd486eef38,691161318e9debf284a2feb6,Connected,IP Decision Pending,Follow Up,2025-11-22T10:32:00.068Z,2025-11-25T16:01:00.000Z,"as per doctor co-ordinator blood reports are normal 
+need to consult with doctor first then decide "
+692191a8afa152fd486eef3a,690c0d99a3c87fd7b0057cd6,Not Connected,Switch Off,Switch Off,2025-11-22T10:34:16.912Z,2025-11-24T16:04:00.000Z,
+69219225afa152fd486eef3c,6911614e8e9debf284a2ff21,Connected,Not Interested,Not Required Anymore,2025-11-22T10:36:21.353Z,,treatment was done with the medications
+6921927aafa152fd486eef3d,691161008e9debf284a2fe03,Not Connected,Busy,Busy,2025-11-22T10:37:46.730Z,2025-11-24T14:11:00.000Z,
+69219301afa152fd486eef3e,691161128e9debf284a2fe43,Not Connected,Busy,Busy,2025-11-22T10:40:01.454Z,2025-11-24T16:10:00.000Z,
+6921932fafa152fd486eef3f,691161528e9debf284a2ff31,Not Connected,Busy,Busy,2025-11-22T10:40:47.609Z,2025-11-24T14:14:00.000Z,
+69219399afa152fd486eef41,6911610f8e9debf284a2fe38,Not Connected,Busy,Busy,2025-11-22T10:42:33.011Z,2025-11-24T16:12:00.000Z,
+692193b9afa152fd486eef42,690c0da1a3c87fd7b0057cf3,Not Connected,Busy,Busy,2025-11-22T10:43:05.083Z,2025-11-25T16:13:00.000Z,
+692193e8afa152fd486eef43,690c0d8aa3c87fd7b0057ca0,Not Connected,Switch Off,Switch Off,2025-11-22T10:43:52.024Z,2025-11-25T16:13:00.000Z,
+69219457afa152fd486eef47,691161488e9debf284a2ff0a,Not Connected,Busy,Busy,2025-11-22T10:45:43.667Z,2025-11-24T16:15:00.000Z,
+69219485afa152fd486eef48,690c0d92a3c87fd7b0057cbe,Not Connected,Busy,Busy,2025-11-22T10:46:29.297Z,2025-11-24T16:16:00.000Z,
+69219517afa152fd486eef4b,691161358e9debf284a2fec7,Not Connected,Busy,Busy,2025-11-22T10:48:55.889Z,2025-11-25T16:18:00.000Z,
+69219592afa152fd486eef4e,690c0da3a3c87fd7b0057cf9,Not Connected,Switch Off,Switch Off,2025-11-22T10:50:58.216Z,2025-11-24T14:24:00.000Z,
+692195e0afa152fd486eef50,6911611a8e9debf284a2fe61,Not Connected,Switch Off,Switch Off,2025-11-22T10:52:16.582Z,2025-11-24T14:26:00.000Z,
+69219662afa152fd486eef51,691161218e9debf284a2fe7b,Not Connected,Busy,Busy,2025-11-22T10:54:26.816Z,2025-11-22T14:29:00.000Z,
+69219665afa152fd486eef52,691161218e9debf284a2fe7b,Not Connected,Busy,Busy,2025-11-22T10:54:29.058Z,2025-11-22T14:29:00.000Z,
+692196cfafa152fd486eef53,6911611b8e9debf284a2fe67,Not Connected,Busy,Busy,2025-11-22T10:56:15.926Z,2025-11-24T15:31:00.000Z,
+69219730afa152fd486eef54,691161048e9debf284a2fe12,Not Connected,Busy,Busy,2025-11-22T10:57:52.030Z,2025-11-24T15:32:00.000Z,
+69219771afa152fd486eef55,691161038e9debf284a2fe0e,Not Connected,Busy,Busy,2025-11-22T10:58:57.281Z,2025-11-24T15:33:00.000Z,
+692197a5afa152fd486eef56,690c0d8fa3c87fd7b0057cb1,Not Connected,Busy,Busy,2025-11-22T10:59:49.109Z,2025-11-25T16:29:00.000Z,
+692197b2afa152fd486eef57,691161018e9debf284a2fe07,Not Connected,Busy,Busy,2025-11-22T11:00:02.964Z,2025-11-24T17:29:00.000Z,
+692197fdafa152fd486eef58,6911612f8e9debf284a2feb2,Not Connected,Busy,Busy,2025-11-22T11:01:17.441Z,2025-11-25T16:31:00.000Z,
+69219899afa152fd486eef59,6911614a8e9debf284a2ff11,Not Connected,Busy,Busy,2025-11-22T11:03:53.829Z,2025-11-24T15:39:00.000Z,
+692198faafa152fd486eef5a,691161338e9debf284a2fec0,Not Connected,Busy,Busy,2025-11-22T11:05:30.918Z,2025-11-24T15:41:00.000Z,
+69219964afa152fd486eef5b,690c0d95a3c87fd7b0057cc7,Connected,Not Interested,Not Required Anymore,2025-11-22T11:07:16.945Z,,"pt. dont want surgery only medication she want 
+age factor ( 75)"
+692199c9afa152fd486eef5c,691161518e9debf284a2ff2c,Connected,Not Interested,Not Required Anymore,2025-11-22T11:08:57.892Z,,not required as per pt.
+69219a02afa152fd486eef5d,691161398e9debf284a2fed3,Not Connected,Switch Off,Switch Off,2025-11-22T11:09:54.356Z,2025-11-24T15:44:00.000Z,
+69219a37afa152fd486eef5e,690c0d9da3c87fd7b0057ce6,Not Connected,Busy,Busy,2025-11-22T11:10:47.560Z,2025-11-25T16:40:00.000Z,
+69219a5fafa152fd486eef5f,691161418e9debf284a2fef0,Not Connected,Busy,Busy,2025-11-22T11:11:27.484Z,2025-11-24T16:42:00.000Z,
+69219aaeafa152fd486eef60,690c0da0a3c87fd7b0057cf0,Not Connected,Busy,Busy,2025-11-22T11:12:46.525Z,2025-11-25T16:42:00.000Z,
+69219b2aafa152fd486eef61,6911612c8e9debf284a2fea6,Not Connected,Busy,Busy,2025-11-22T11:14:50.869Z,2025-11-24T15:49:00.000Z,
+69219b5dafa152fd486eef62,690c0d7ca3c87fd7b0057c65,Not Connected,Busy,Busy,2025-11-22T11:15:41.457Z,2025-11-25T16:45:00.000Z,
+69219cd4afa152fd486eef63,690c0d92a3c87fd7b0057cbb,Connected,Not Interested,Others,2025-11-22T11:21:56.292Z,,"	ip no :- 226017
+pt. surgery done in blk ( on cghs sponsor ) "
+69219cdbafa152fd486eef64,6911613d8e9debf284a2fee5,Connected,Not Interested,Not Required Anymore,2025-11-22T11:22:03.137Z,,procedure was done from other hospital 
+69219d57afa152fd486eef65,691161348e9debf284a2fec2,Not Connected,Busy,Busy,2025-11-22T11:24:07.378Z,2025-11-24T15:59:00.000Z,
+69219dc9afa152fd486eef66,6911613b8e9debf284a2fedd,Connected,Not Interested,Others,2025-11-22T11:26:01.299Z,,"pt. in u.s.a 
+attendent ( confirm with att.) "
+69219f76afa152fd486eef68,6911612a8e9debf284a2fe9e,Connected,IP Decision Pending,On Medications,2025-11-22T11:33:10.092Z,2025-11-28T17:01:00.000Z,pt. want only medication for meanwhile 
+69219f9cafa152fd486eef69,690c0d93a3c87fd7b0057cbf,Not Connected,Busy,Busy,2025-11-22T11:33:48.119Z,2025-11-26T17:03:00.000Z,
+6921a011afa152fd486eef6c,691161488e9debf284a2ff0c,Not Connected,Busy,Busy,2025-11-22T11:35:45.109Z,2025-11-26T17:05:00.000Z,
+6921a261afa152fd486eef74,6911612f8e9debf284a2feb0,Connected,Admission In Process,Admission Confirmed,2025-11-22T11:45:37.088Z,2025-11-23T17:14:00.000Z,"B/L inguinal hernia
+pt. is coming for admission 
+d.o.a :-23/11/2025
+d.o.s:- 24/11/2025"
+6921a427afa152fd486eef7c,690c0d97a3c87fd7b0057ccf,Connected,IP Decision Pending,Follow Up,2025-11-22T11:53:11.782Z,2025-11-25T17:20:00.000Z,"pt. is out of town coming back after few days 
+he take treatment from his village (badio). "
+6921a6aaafa152fd486eef83,690c0d9fa3c87fd7b0057cec,Not Connected,Busy,Busy,2025-11-22T12:03:54.369Z,2025-11-26T17:33:00.000Z,
+6921a7b0afa152fd486eef84,690a8eae0a925c8ae55f8d93,Connected,Admission In Process,Admission Tentative,2025-11-22T12:08:16.553Z,2025-11-28T17:36:00.000Z,pt. is coming for admission on saturday 
+6921acadafa152fd486eef8d,690c0d98a3c87fd7b0057cd3,Connected,Not Interested,Others,2025-11-22T12:29:33.000Z,,229404 pt. is admitted in blk tah and bso 
+6921ad5dafa152fd486eef8e,690c0d85a3c87fd7b0057c88,Not Connected,Busy,Busy,2025-11-22T12:32:29.135Z,2025-11-25T18:02:00.000Z,
+6923f68cafa152fd486eef91,691161328e9debf284a2febd,Not Connected,Busy,Busy,2025-11-24T06:09:16.195Z,2025-11-25T11:39:00.000Z,
+6923f934afa152fd486eef93,6911612e8e9debf284a2fead,Connected,Not Interested,Not Required Anymore,2025-11-24T06:20:36.847Z,2025-11-25T11:43:00.000Z,"226135 pt. is admiited in blk 
+and expire after surgery "
+6923fa21afa152fd486eef95,691161198e9debf284a2fe5e,Connected,IP Decision Pending,Follow Up,2025-11-24T06:24:33.107Z,2025-11-28T11:54:00.000Z,pt. is out of town (raipur) she visit delhi after a week Tentative time ) but pt. is not intersted in angio
+6923fb5bafa152fd486eef98,6911612f8e9debf284a2feb0,Connected,Admitted,Admission Done,2025-11-24T06:29:47.544Z,2025-11-23T08:59:00.000Z,"IP NO:- 234185
+pt. is admiited on 23-11-2025 08:59:00 PM
+surgery done on 24-11-2025"
+6923fd0cafa152fd486eef9a,690c0d79a3c87fd7b0057c5b,Not Connected,Busy,Busy,2025-11-24T06:37:00.695Z,2025-11-25T12:06:00.000Z,
+69240046afa152fd486eefa1,690c0d79a3c87fd7b0057c5b,Connected,IP Decision Pending,Follow Up,2025-11-24T06:50:46.898Z,2025-11-25T12:19:00.000Z,"PT. VISIT TODAY FOR CONSULT
+AFTER CONSULT PT. DECIDE  "
+69240088afa152fd486eefa2,690c0d95a3c87fd7b0057cc8,Not Connected,Busy,Busy,2025-11-24T06:51:52.145Z,2025-11-25T12:21:00.000Z,
+6924013a48a70d807142a48c,690c0d93a3c87fd7b0057cc1,Not Connected,Busy,Busy,2025-11-24T06:54:50.873Z,2025-11-25T12:24:00.000Z,
+6924017348a70d807142a48d,691161308e9debf284a2feb5,Not Connected,Busy,Busy,2025-11-24T06:55:47.672Z,2025-11-25T12:25:00.000Z,
+6924061048a70d807142a49b,690c0d79a3c87fd7b0057c5b,Connected,Not Interested,Others,2025-11-24T07:15:28.648Z,,ADMISSION REFUSED BY PT. 
+6924067a48a70d807142a49d,690ada5e2207dbd6e3006bab,Not Connected,Busy,Busy,2025-11-24T07:17:14.292Z,2025-11-25T12:47:00.000Z,
+69240a7248a70d807142a4a7,690ada612207dbd6e3006bb2,Connected,Admission In Process,Admission Tentative,2025-11-24T07:34:10.840Z,2025-12-01T13:02:00.000Z,"DEC IS TENTATIVE DATE 
+CATARACT SURGERY IS DONE ( PAST 15 DAYS ARE COMPLETED )"
+692410a848a70d807142a4b8,6911612c8e9debf284a2fea7,Not Connected,Busy,Busy,2025-11-24T08:00:40.121Z,2025-11-25T13:30:00.000Z,
+6924121448a70d807142a4bd,690c0d90a3c87fd7b0057cb5,Connected,Not Interested,Not Required Anymore,2025-11-24T08:06:44.065Z,,"CAG IS REQUIRED IF PT. IS SUUFFERING FROM chest pain BUT THERE IS NO CHEST PAIN OR HEAVYNESS 
+SO NOT REUIRED OD CAG AS [ER PT. "
+6924139848a70d807142a4c5,6911613f8e9debf284a2feec,Not Connected,Busy,Busy,2025-11-24T08:13:12.981Z,2025-11-25T13:43:00.000Z,
+692415e548a70d807142a4ce,690c0d9aa3c87fd7b0057cd8,Connected,IP Decision Pending,Follow Up,2025-11-24T08:23:01.414Z,2025-12-01T13:52:00.000Z,"NEED TO CONNECT AGAIN 
+PT. IS FEEL OKAY NOEW NO CHEST PAIN ,NO HEAVYNESS"
+692417e648a70d807142a4d4,690ada612207dbd6e3006bb3,Not Connected,Busy,Busy,2025-11-24T08:31:34.300Z,2025-11-21T14:01:00.000Z,
+6924184a48a70d807142a4d5,690c0d91a3c87fd7b0057cb9,Not Connected,Busy,Busy,2025-11-24T08:33:14.011Z,2025-11-25T14:03:00.000Z,
+692437c103ff3bed9c0bedca,6911611c8e9debf284a2fe68,Not Connected,Busy,Busy,2025-11-24T10:47:29.487Z,2025-11-25T16:17:00.000Z,
+6924382f03ff3bed9c0bedcb,691161218e9debf284a2fe7b,Not Connected,Busy,Busy,2025-11-24T10:49:19.429Z,2025-11-25T15:24:00.000Z,
+692438c103ff3bed9c0bedcc,691161528e9debf284a2ff31,Not Connected,Busy,Busy,2025-11-24T10:51:45.164Z,2025-11-25T14:25:00.000Z,
+692438f603ff3bed9c0bedce,6911610f8e9debf284a2fe38,Not Connected,Busy,Busy,2025-11-24T10:52:38.245Z,2025-11-25T14:26:00.000Z,
+6924392a03ff3bed9c0bedcf,690c0da3a3c87fd7b0057cf9,Not Connected,Busy,Busy,2025-11-24T10:53:30.516Z,2025-11-25T14:27:00.000Z,
+6924396903ff3bed9c0bedd0,6911611a8e9debf284a2fe61,Not Connected,Busy,Busy,2025-11-24T10:54:33.916Z,2025-11-25T14:28:00.000Z,
+692439a103ff3bed9c0bedd2,6911611b8e9debf284a2fe67,Not Connected,Busy,Busy,2025-11-24T10:55:29.040Z,2025-11-25T15:30:00.000Z,
+69243a0803ff3bed9c0bedd4,691161008e9debf284a2fe03,Not Connected,Busy,Busy,2025-11-24T10:57:12.357Z,2025-11-25T14:31:00.000Z,
+69243a4f03ff3bed9c0bedd5,691161128e9debf284a2fe43,Not Connected,Switch Off,Switch Off,2025-11-24T10:58:23.535Z,2025-11-25T15:33:00.000Z,
+69243c0c03ff3bed9c0bedd8,691161048e9debf284a2fe12,Not Connected,Busy,Busy,2025-11-24T11:05:48.300Z,2025-11-25T15:40:00.000Z,
+69243c4003ff3bed9c0bedd9,691161038e9debf284a2fe0e,Not Connected,Busy,Busy,2025-11-24T11:06:40.366Z,2025-11-25T14:40:00.000Z,
+6925434f74b0bdff7218b2dc,691161198e9debf284a2fe5c,Connected,Not Interested,Others,2025-11-25T05:49:03.205Z,,IP no:-218834 PT. IS ADMITTED ON 8-07-2025 10:45:29 AM IN BLK MAX 
+692543d274b0bdff7218b2dd,691161378e9debf284a2fecc,Not Connected,Busy,Busy,2025-11-25T05:51:14.575Z,2025-11-26T11:21:00.000Z,
+6925458e74b0bdff7218b2e4,691161518e9debf284a2ff2d,Connected,Not Interested,Not Required Anymore,2025-11-25T05:58:38.283Z,,NO NEED OF BIOPSY PT. CONDITION IS IMPROVED AFTER MEDICATION 
+6925461674b0bdff7218b2e5,6911614c8e9debf284a2ff1a,Not Connected,Busy,Busy,2025-11-25T06:00:54.953Z,2025-11-26T11:30:00.000Z,
+6925479074b0bdff7218b2ec,690c0da3a3c87fd7b0057cfa,Connected,IP Decision Pending,Follow Up,2025-11-25T06:07:12.293Z,2025-11-25T03:00:00.000Z,"SPOUSE IS BUSY, NEED TO CONNECT AGAIN  "
+692548d874b0bdff7218b2f3,690c0d94a3c87fd7b0057cc3,Connected,IP Decision Pending,OPD Appointment,2025-11-25T06:12:40.431Z,2025-12-01T11:41:00.000Z,"I ADVICE FOR CONSULT , PT IS COMING IN DEC FOR CONSULT "
+69254bb474b0bdff7218b2f9,690c0d7fa3c87fd7b0057c71,Connected,Not Interested,Not Required Anymore,2025-11-25T06:24:52.404Z,,"IP NO :-225031 ( D.O.A:- 11-09-2025 01:51:11 PM )
+STEM TRANSPLANT IS DONE "
+69254d1974b0bdff7218b2fd,6911612c8e9debf284a2fea5,Connected,IP Decision Pending,Follow Up,2025-11-25T06:30:49.864Z,2025-11-30T11:59:00.000Z,"BROTHER IS DISCUSS AT HOME ABOUT COST AND SURGERY BECAUSE HE IS STUCK ON 2.50K BUT ,intial estimate amount is 7.70k final offier from doc. side is 5.50k"
+69254eeb74b0bdff7218b303,6911612c8e9debf284a2fea7,Connected,IP Decision Pending,On Medications,2025-11-25T06:38:35.998Z,2025-12-23T12:06:00.000Z,"THYROID SCAN VALUE IS HIGH NEED TO COMPLETE ONE MONTH COURSE OF THYROID MEDICINE,
+THEN AFTER CONSULT DR. DECIDE PT. IS FIT FOR SURGERY OR NOT "
+69254fe774b0bdff7218b304,690ada612207dbd6e3006bb4,Connected,IP Decision Pending,Follow Up,2025-11-25T06:42:47.345Z,2025-12-01T12:11:00.000Z,"PT. IN KERLA 
+HE VISIT IN DELHI ( DEC STARTING ), NEED TO CONNECT AGAIN "
+6925506574b0bdff7218b306,6911613f8e9debf284a2feec,Not Connected,Busy,Busy,2025-11-25T06:44:53.026Z,2025-11-28T12:14:00.000Z,
+6925541a74b0bdff7218b30d,690c0d9ca3c87fd7b0057ce2,Connected,Not Interested,Not Required Anymore,2025-11-25T07:00:42.972Z,2025-12-02T12:21:00.000Z,"PT. MEDICINE ARE FINISHED ,I ADVICE FOR OPD CONSULT( HE COMING IN DEC STARTING )
+HE SKIP THE ADMISSION AND INJECTION , NOW NO NEED OF ADMISSION IS STABLE ( POST KTP PT )"
+692557f874b0bdff7218b314,690c0d88a3c87fd7b0057c95,Connected,IP Decision Pending,Follow Up,2025-11-25T07:17:12.844Z,2025-11-25T01:35:00.000Z,"NEED TO CONNECT AGAIN AFTER ONE HOUR 
+PT. GIVE POOR FEEDBACK  ABOUT DOCTOR "
+69255b1a74b0bdff7218b323,690a8f420a925c8ae55f8d9c,Connected,IP Decision Pending,OPD Appointment,2025-11-25T07:30:34.337Z,2025-11-26T12:59:00.000Z,"PT. IS not good need to consult ,
+provide max at home lab services to pt. at home for blood investigation , i already share my contact with pt. "
+69255d2674b0bdff7218b329,690c0da4a3c87fd7b0057cff,Connected,IP Decision Pending,OPD Appointment,2025-11-25T07:39:18.003Z,2025-12-13T13:07:00.000Z,"pt is out of town (GAYTRI NAGAR BUNDI RAJASTHAN)
+he is coming ( dec 2nd week)for consultation "
+6925605574b0bdff7218b334,690c0d7fa3c87fd7b0057c70,Not Connected,Busy,Busy,2025-11-25T07:52:53.767Z,2025-11-26T13:22:00.000Z,
+692560a974b0bdff7218b336,690a8f920a925c8ae55f8d9f,Not Connected,Busy,Busy,2025-11-25T07:54:17.512Z,2025-11-26T13:24:00.000Z,
+6925627c74b0bdff7218b340,690c0d82a3c87fd7b0057c7a,Connected,IP Decision Pending,On Medications,2025-11-25T08:02:04.245Z,2025-11-26T13:29:00.000Z,"network problem need to connect again (seizure)
+
+dr/ advice admission for eeg and mri brain ( as per pt. tpa deny for admission, according to them they san on opd basis no need to admit pt )"
+692562db74b0bdff7218b342,690c0da4a3c87fd7b0057cfe,Not Connected,Busy,Busy,2025-11-25T08:03:39.552Z,2025-11-26T13:33:00.000Z,
+6925634b74b0bdff7218b345,690c0d96a3c87fd7b0057ccb,Not Connected,Busy,Busy,2025-11-25T08:05:31.218Z,2025-11-26T13:35:00.000Z,
+692563d774b0bdff7218b349,690c0da1a3c87fd7b0057cf4,Not Connected,Busy,Busy,2025-11-25T08:07:51.682Z,2025-11-26T13:37:00.000Z,
+6925668a74b0bdff7218b352,690c0d80a3c87fd7b0057c75,Connected,Not Interested,Not Required Anymore,2025-11-25T08:19:22.162Z,,"pt. is stable now no need of admission 
+dr. vishal visit in nagaland ( they consult with dr. on 15 nov ) now pt. is on medication "
+692566f774b0bdff7218b354,690c0d91a3c87fd7b0057cb8,Not Connected,Busy,Busy,2025-11-25T08:21:11.133Z,2025-11-26T13:51:00.000Z,
+692583cd74b0bdff7218b384,691161168e9debf284a2fe51,Not Connected,Busy,Busy,2025-11-25T10:24:13.681Z,2025-11-26T15:54:00.000Z,
+692567cf74b0bdff7218b35c,690a8f060a925c8ae55f8d9a,Connected,Not Interested,Not Required Anymore,2025-11-25T08:24:47.235Z,,"pt. is ok now 
+( bhutan ) "
+6925680c74b0bdff7218b35d,690c0d7ea3c87fd7b0057c6d,Not Connected,Busy,Busy,2025-11-25T08:25:48.009Z,2025-11-26T13:55:00.000Z,
+6925689e74b0bdff7218b361,690ada622207dbd6e3006bb9,Not Connected,Busy,Busy,2025-11-25T08:28:14.638Z,2025-11-26T13:58:00.000Z,
+6925772e74b0bdff7218b364,690c0da3a3c87fd7b0057cfc,Connected,Not Interested,Not Required Anymore,2025-11-25T09:30:22.897Z,,pt is stable in week 
+6925788474b0bdff7218b366,690c0d94a3c87fd7b0057cc6,Not Connected,Switch Off,Switch Off,2025-11-25T09:36:04.379Z,2025-11-26T15:06:00.000Z,
+692578b574b0bdff7218b367,690c0d7ba3c87fd7b0057c60,Not Connected,Busy,Busy,2025-11-25T09:36:53.918Z,2025-11-26T15:06:00.000Z,
+692579c674b0bdff7218b369,6911612b8e9debf284a2fea3,Connected,Not Interested,Not Required Anymore,2025-11-25T09:41:26.819Z,,pt. is cure and stable 
+69257a0574b0bdff7218b36b,690c0da2a3c87fd7b0057cf7,Connected,Not Interested,Admitted Elsewhere,2025-11-25T09:42:29.851Z,,Admitted Elsewhere
+69257bc474b0bdff7218b36e,691161478e9debf284a2ff06,Not Connected,Busy,Busy,2025-11-25T09:49:56.294Z,2025-11-26T15:19:00.000Z,
+69257c9774b0bdff7218b370,690c0d84a3c87fd7b0057c82,Not Connected,Busy,Busy,2025-11-25T09:53:27.281Z,2025-11-26T15:23:00.000Z,
+69257f5474b0bdff7218b376,690c0d83a3c87fd7b0057c7e,Not Connected,Busy,Busy,2025-11-25T10:05:08.055Z,2025-11-26T15:35:00.000Z,
+69257fba74b0bdff7218b377,690c0d7ba3c87fd7b0057c63,Not Connected,Busy,Busy,2025-11-25T10:06:50.192Z,2025-11-26T15:36:00.000Z,
+6925810274b0bdff7218b378,690c0d84a3c87fd7b0057c84,Connected,IP Decision Pending,Follow Up,2025-11-25T10:12:18.078Z,2025-11-30T15:40:00.000Z,"pt. alreday purchased the injection 
+(rituximab) 
+yesterday pt. discharge from sant peramanand hospital
+need to connect again in 4-5 day "
+6925823474b0bdff7218b37a,690c0d8ea3c87fd7b0057cab,Not Connected,Busy,Busy,2025-11-25T10:17:24.784Z,2025-11-26T15:47:00.000Z,
+6925827574b0bdff7218b37d,6911613e8e9debf284a2fee8,Not Connected,Busy,Busy,2025-11-25T10:18:29.217Z,2025-11-26T15:48:00.000Z,
+6925837074b0bdff7218b381,690c0d8ca3c87fd7b0057ca6,Connected,Not Interested,Not Required Anymore,2025-11-25T10:22:40.292Z,,"pt. take second opinion in bhuvneshwar 
+they test and suggect there is no need of surgery as per pt. 
+( now pt. is on medication ) "
+6925842b74b0bdff7218b386,6911611e8e9debf284a2fe70,Not Connected,Busy,Busy,2025-11-25T10:25:47.181Z,2025-11-26T15:55:00.000Z,
+6925851074b0bdff7218b388,691161198e9debf284a2fe5f,Not Connected,Busy,Busy,2025-11-25T10:29:36.175Z,2025-11-26T15:59:00.000Z,
+6925856c74b0bdff7218b38a,690c0d99a3c87fd7b0057cd6,Not Connected,Busy,Busy,2025-11-25T10:31:08.058Z,2025-11-26T16:01:00.000Z,
+692586aa74b0bdff7218b392,690c0d8fa3c87fd7b0057cb1,Not Connected,Busy,Busy,2025-11-25T10:36:26.627Z,2025-11-26T16:06:00.000Z,
+6925870774b0bdff7218b393,690c0da1a3c87fd7b0057cf3,Not Connected,Busy,Busy,2025-11-25T10:37:59.449Z,2025-11-26T16:08:00.000Z,
+692587eb74b0bdff7218b397,690c0d7ca3c87fd7b0057c65,Not Connected,Busy,Busy,2025-11-25T10:41:47.500Z,2025-11-27T16:11:00.000Z,
+69258b0774b0bdff7218b39e,690c0d8aa3c87fd7b0057c9f,Not Connected,Busy,Busy,2025-11-25T10:55:03.096Z,2025-11-26T16:25:00.000Z,
+69258bb674b0bdff7218b3a1,690c0d92a3c87fd7b0057cbe,Not Connected,Busy,Busy,2025-11-25T10:57:58.951Z,2025-11-26T16:28:00.000Z,
+69258c0174b0bdff7218b3a2,691161488e9debf284a2ff0a,Not Connected,Busy,Busy,2025-11-25T10:59:13.371Z,2025-11-26T16:29:00.000Z,
+69258c4074b0bdff7218b3a4,690c0d85a3c87fd7b0057c88,Not Connected,Busy,Busy,2025-11-25T11:00:16.177Z,2025-11-27T16:30:00.000Z,
+69258ca474b0bdff7218b3a7,690c0d9da3c87fd7b0057ce6,Not Connected,Busy,Busy,2025-11-25T11:01:56.512Z,2025-11-26T16:32:00.000Z,
+69258d9574b0bdff7218b3ab,690c0d8aa3c87fd7b0057ca0,Not Connected,Switch Off,Switch Off,2025-11-25T11:05:57.784Z,2025-11-26T16:36:00.000Z,
+69258e0a74b0bdff7218b3ad,6911612f8e9debf284a2feb2,Not Connected,Busy,Busy,2025-11-25T11:07:54.175Z,2025-11-26T16:37:00.000Z,
+69258e4774b0bdff7218b3af,691161328e9debf284a2febd,Not Connected,Busy,Busy,2025-11-25T11:08:55.461Z,2025-11-26T16:38:00.000Z,
+69258ef374b0bdff7218b3b3,691161358e9debf284a2fec7,Not Connected,Busy,Busy,2025-11-25T11:11:47.637Z,2025-11-28T16:41:00.000Z,
+69258faf74b0bdff7218b3b5,691161488e9debf284a2ff0c,Not Connected,Busy,Busy,2025-11-25T11:14:55.744Z,2025-11-27T16:45:00.000Z,
+6926ebbc74b0bdff7218b4f0,691161158e9debf284a2fe4f,Not Connected,Invalid,Invalid,2025-11-26T11:59:56.693Z,,
+6925925b74b0bdff7218b3c2,690ada612207dbd6e3006bb5,Connected,Not Interested,Not Required Anymore,2025-11-25T11:26:19.417Z,,pt. is stable no  need of admission 
+6925968174b0bdff7218b3cb,690c0da0a3c87fd7b0057cf0,Not Connected,Busy,Busy,2025-11-25T11:44:01.151Z,2025-11-26T17:13:00.000Z,
+6925982574b0bdff7218b3d0,690c0d95a3c87fd7b0057cc8,Connected,IP Decision Pending,Follow Up,2025-11-25T11:51:01.025Z,2025-11-26T17:18:00.000Z,"need to connect again 
+because of dibatic ( pt. vision is not clear )
+pt. share reports after  some investigation "
+69259a6074b0bdff7218b3d7,691161018e9debf284a2fe07,Not Connected,Busy,Busy,2025-11-25T12:00:32.536Z,2025-11-26T14:33:00.000Z,
+69259aab74b0bdff7218b3d8,691161398e9debf284a2fed3,Not Connected,Busy,Busy,2025-11-25T12:01:47.482Z,2025-11-26T14:31:00.000Z,
+69259b9a74b0bdff7218b3db,691161418e9debf284a2fef0,Not Connected,Busy,Busy,2025-11-25T12:05:46.149Z,2025-11-26T15:39:00.000Z,
+69259c7174b0bdff7218b3dd,6911612c8e9debf284a2fea6,Not Connected,Busy,Busy,2025-11-25T12:09:21.226Z,2025-11-26T14:39:00.000Z,
+69259cc874b0bdff7218b3de,691161348e9debf284a2fec2,Not Connected,Busy,Busy,2025-11-25T12:10:48.485Z,2025-11-26T15:40:00.000Z,
+69259efb74b0bdff7218b3e1,691161338e9debf284a2fec0,Not Connected,Busy,Busy,2025-11-25T12:20:11.675Z,2025-11-26T16:55:00.000Z,
+69259f4f74b0bdff7218b3e3,691161128e9debf284a2fe43,Not Connected,Busy,Busy,2025-11-25T12:21:35.005Z,2025-11-26T15:56:00.000Z,
+69259fac74b0bdff7218b3e5,6911611c8e9debf284a2fe68,Not Connected,Busy,Busy,2025-11-25T12:23:08.707Z,2025-11-26T16:58:00.000Z,
+6925a04a74b0bdff7218b3e6,691161218e9debf284a2fe7b,Not Connected,Busy,Busy,2025-11-25T12:25:46.750Z,2025-11-26T14:55:00.000Z,
+69269c8574b0bdff7218b408,690c0d93a3c87fd7b0057cbf,Not Connected,Busy,Busy,2025-11-26T06:21:57.068Z,2025-11-27T11:52:00.000Z,
+69269d8674b0bdff7218b40b,6911614c8e9debf284a2ff1a,Not Connected,Busy,Busy,2025-11-26T06:26:14.989Z,2025-11-29T11:56:00.000Z,
+69269ed174b0bdff7218b40f,691161088e9debf284a2fe20,Connected,IP Decision Pending,Follow Up,2025-11-26T06:31:45.347Z,2025-11-28T12:00:00.000Z,"pt. go for echo in 2-3 days after that dr. decide 
+ Crt-d Implantation"
+6926a0e274b0bdff7218b412,690c0d88a3c87fd7b0057c96,Connected,Not Interested,Admitted Elsewhere,2025-11-26T06:40:34.620Z,,"pt. in  Comatosed situation 
+admitted in nusring home "
+6926a30474b0bdff7218b417,690c0d87a3c87fd7b0057c91,Not Connected,Busy,Busy,2025-11-26T06:49:40.286Z,2025-11-29T12:19:00.000Z,
+6926a52374b0bdff7218b41e,6911614b8e9debf284a2ff15,Connected,IP Decision Pending,OPD Appointment,2025-11-26T06:58:43.206Z,2025-12-02T12:28:00.000Z,"pt. take appoint for 01/12/2025 need to take estimate after consultation pt. is interested for surgery
+need to connect again "
+6926a67a74b0bdff7218b423,690c0d82a3c87fd7b0057c7a,Not Connected,Busy,Busy,2025-11-26T07:04:26.014Z,2025-11-27T12:34:00.000Z,
+6926a69f74b0bdff7218b425,6911612a8e9debf284a2fe9e,Not Connected,Busy,Busy,2025-11-26T07:05:03.683Z,2025-11-27T12:35:00.000Z,
+6926a77874b0bdff7218b42a,690ada5e2207dbd6e3006bab,Not Connected,Busy,Busy,2025-11-26T07:08:40.565Z,2025-11-28T12:38:00.000Z,
+6926a84f74b0bdff7218b42d,690c0d97a3c87fd7b0057ccf,Connected,IP Decision Pending,Follow Up,2025-11-26T07:12:15.859Z,2025-11-30T12:42:00.000Z,pt. is out of town coming back after few days he take treatment from his village (badio).
+6926a93b74b0bdff7218b432,691161308e9debf284a2feb5,Connected,IP Decision Pending,Follow Up,2025-11-26T07:16:11.740Z,2026-11-01T12:45:00.000Z,"pt. have financial issue 
+after 1 year they go for surgery "
+6926aaf774b0bdff7218b439,690c0da3a3c87fd7b0057cfa,Not Connected,Busy,Busy,2025-11-26T07:23:35.093Z,2025-11-30T12:53:00.000Z,
+6926ad5974b0bdff7218b443,691161318e9debf284a2feb6,Connected,IP Decision Pending,On Medications,2025-11-26T07:33:45.284Z,2025-11-28T13:02:00.000Z,"consultation is done today (26-Nov-2025)
+after blood investigation dr. decide for admission "
+6926b07474b0bdff7218b44c,6911614b8e9debf284a2ff17,Connected,Admission In Process,Admission Tentative,2025-11-26T07:47:00.891Z,2025-12-03T13:14:00.000Z,"consultation is done on (25/11/2025)
+estimate is also taken ON SAME DATE 
+D.O.S:- 3/DEC/2025
+"
+6926b1d574b0bdff7218b44d,690c0d93a3c87fd7b0057cc1,Connected,Not Interested,Not Required Anymore,2025-11-26T07:52:53.969Z,,"Stone Removed Naturally
+not required "
+6926beea74b0bdff7218b451,691161498e9debf284a2ff10,Connected,IP Decision Pending,OPD Appointment,2025-11-26T08:48:42.825Z,2025-11-29T14:16:00.000Z,"pt. appointment is cancelled because of meeting 
+consultation plan after  few days as per pt. ( plz don't call )"
+6926c0c574b0bdff7218b45a,690c0d95a3c87fd7b0057cc8,Connected,IP Decision Pending,Follow Up,2025-11-26T08:56:37.970Z,2025-11-30T14:26:00.000Z,whatsapp contact alreday shared  with pt. after investigation pt. share the reports 
+6926c1e574b0bdff7218b45e,690c0d9da3c87fd7b0057ce3,Connected,IP Decision Pending,Follow Up,2025-11-26T09:01:25.713Z,2025-11-30T14:31:00.000Z,"pt. is out of town pt. visit delhi after 3-4 days after consulation decide , need to connect again"
+6926c2ac74b0bdff7218b460,691161218e9debf284a2fe7d,Not Connected,Busy,Busy,2025-11-26T09:04:44.862Z,2025-11-30T14:34:00.000Z,
+6926c41a74b0bdff7218b464,690c0da0a3c87fd7b0057cee,Not Connected,Busy,Busy,2025-11-26T09:10:50.734Z,2025-11-30T14:40:00.000Z,
+6926c4db74b0bdff7218b466,691161378e9debf284a2fecc,Not Connected,Switch Off,Switch Off,2025-11-26T09:14:03.962Z,2025-11-27T14:44:00.000Z,
+6926c7e674b0bdff7218b46d,690c0d8fa3c87fd7b0057cb1,Connected,IP Decision Pending,Follow Up,2025-11-26T09:27:02.664Z,2025-12-31T14:55:00.000Z,"daughter marriage in dec 
+need to connect gagain in jan. end
+ ACL"
+6926c8a774b0bdff7218b470,690c0d92a3c87fd7b0057cbe,Connected,Not Interested,Not Required Anymore,2025-11-26T09:30:15.818Z,,surgery done in sakte max under dr. marwah 
+6926c95974b0bdff7218b472,690c0d8aa3c87fd7b0057ca0,Not Connected,Busy,Busy,2025-11-26T09:33:13.656Z,2025-11-27T15:03:00.000Z,
+6926c9c374b0bdff7218b473,690c0d99a3c87fd7b0057cd6,Not Connected,Busy,Busy,2025-11-26T09:34:59.776Z,2025-11-27T15:05:00.000Z,
+6926ca7274b0bdff7218b475,691161328e9debf284a2febd,Not Connected,Busy,Busy,2025-11-26T09:37:54.272Z,2025-11-27T15:08:00.000Z,
+6926cb6474b0bdff7218b477,6911613e8e9debf284a2fee8,Not Connected,Busy,Busy,2025-11-26T09:41:56.016Z,2025-11-27T15:12:00.000Z,
+6926cfd174b0bdff7218b485,691161488e9debf284a2ff0a,Not Connected,Switch Off,Switch Off,2025-11-26T10:00:49.429Z,2025-11-28T15:30:00.000Z,
+6926d14b74b0bdff7218b48c,690c0da1a3c87fd7b0057cf3,Connected,Financial Concerns,Financial Estimate Pending,2025-11-26T10:07:07.549Z,2025-11-29T15:28:00.000Z,estimate is pending 
+6926d19174b0bdff7218b48f,6911612f8e9debf284a2feb2,Not Connected,Busy,Busy,2025-11-26T10:08:17.860Z,2025-11-28T15:38:00.000Z,
+6926d48d74b0bdff7218b49a,690c0d96a3c87fd7b0057ccb,Connected,IP Decision Pending,Follow Up,2025-11-26T10:21:01.588Z,2025-11-28T15:48:00.000Z,"pt. is canclled his surgery because admission staff is asking for 80% cost of estimate need to be deposit for admission 
+( his pre apporval amount is 80k only )"
+6926d68474b0bdff7218b4a2,690c0d8ea3c87fd7b0057cab,Connected,Not Interested,Others,2025-11-26T10:29:24.339Z,,pt. has railway panel that's why pt. choose impanel hospital for surgery 
+6926d6fa74b0bdff7218b4a5,690c0d8aa3c87fd7b0057c9f,Not Connected,Busy,Busy,2025-11-26T10:31:22.686Z,2025-11-27T16:01:00.000Z,
+6926d89374b0bdff7218b4a8,691161168e9debf284a2fe51,Not Connected,Busy,Busy,2025-11-26T10:38:11.372Z,2025-11-27T16:08:00.000Z,
+6926d97774b0bdff7218b4ad,6911611e8e9debf284a2fe70,Connected,Not Interested,Not Required Anymore,2025-11-26T10:41:59.466Z,,surgery done in government hospital 
+6926db2b74b0bdff7218b4b3,691161198e9debf284a2fe5f,Connected,IP Decision Pending,On Medications,2025-11-26T10:49:15.777Z,2025-12-10T16:16:00.000Z,"pt. want consultation after 15 days medication 
+, after that dr. decide surgery is required or not "
+6926dba774b0bdff7218b4b4,690c0d9da3c87fd7b0057ce6,Not Connected,Busy,Busy,2025-11-26T10:51:19.848Z,2025-11-27T16:21:00.000Z,
+6926dc4474b0bdff7218b4b6,690c0da0a3c87fd7b0057cf0,Not Connected,Busy,Busy,2025-11-26T10:53:56.787Z,2025-11-28T16:24:00.000Z,
+6926df7674b0bdff7218b4bc,691161268e9debf284a2fe8f,Not Connected,Busy,Busy,2025-11-26T11:07:34.482Z,2025-11-27T16:37:00.000Z,
+6926df8074b0bdff7218b4bd,6911614a8e9debf284a2ff11,Connected,Not Interested,Admitted Elsewhere,2025-11-26T11:07:44.682Z,,patient treatment was on going on other hospital.
+6926dfc574b0bdff7218b4bf,691161528e9debf284a2ff31,Not Connected,Busy,Busy,2025-11-26T11:08:53.094Z,2025-11-29T14:42:00.000Z,
+6926e03174b0bdff7218b4c1,691161008e9debf284a2fe03,Not Connected,Busy,Busy,2025-11-26T11:10:41.209Z,2025-11-29T16:40:00.000Z,
+6926e07c74b0bdff7218b4c2,6911611b8e9debf284a2fe67,Not Connected,Busy,Busy,2025-11-26T11:11:56.759Z,2025-11-28T16:42:00.000Z,
+6926e09f74b0bdff7218b4c3,6911610f8e9debf284a2fe38,Not Connected,Switch Off,Switch Off,2025-11-26T11:12:31.484Z,2025-11-29T16:42:00.000Z,
+6926e0e374b0bdff7218b4c5,690c0da3a3c87fd7b0057cf9,Not Connected,Busy,Busy,2025-11-26T11:13:39.570Z,2025-11-28T14:47:00.000Z,
+6926e11d74b0bdff7218b4c7,6911611a8e9debf284a2fe61,Not Connected,Busy,Busy,2025-11-26T11:14:37.825Z,2025-11-28T15:49:00.000Z,
+6926e1cd74b0bdff7218b4c8,6911611a8e9debf284a2fe61,Not Connected,Busy,Busy,2025-11-26T11:17:33.144Z,2025-11-28T13:50:00.000Z,
+6926e1fc74b0bdff7218b4ca,6911612f8e9debf284a2feb1,Not Connected,Busy,Busy,2025-11-26T11:18:20.381Z,2025-11-27T16:48:00.000Z,
+6926e22d74b0bdff7218b4cb,691161048e9debf284a2fe12,Not Connected,Busy,Busy,2025-11-26T11:19:09.460Z,2025-11-28T16:49:00.000Z,
+6926e29874b0bdff7218b4ce,691161038e9debf284a2fe0e,Not Connected,Busy,Busy,2025-11-26T11:20:56.782Z,2025-11-28T14:54:00.000Z,
+6926e2f774b0bdff7218b4cf,691161128e9debf284a2fe43,Not Connected,Switch Off,Switch Off,2025-11-26T11:22:31.953Z,2025-11-28T16:52:00.000Z,
+6926e36e74b0bdff7218b4d1,691161128e9debf284a2fe43,Not Connected,Busy,Busy,2025-11-26T11:24:30.488Z,2025-11-28T15:54:00.000Z,
+6926e3e574b0bdff7218b4d2,691161338e9debf284a2fec0,Not Connected,Switch Off,Switch Off,2025-11-26T11:26:29.677Z,2025-11-28T16:56:00.000Z,
+6926e44c74b0bdff7218b4d3,691161018e9debf284a2fe07,Not Connected,Switch Off,Switch Off,2025-11-26T11:28:12.676Z,2025-11-28T14:58:00.000Z,
+6926e53674b0bdff7218b4d4,6911611d8e9debf284a2fe6e,Connected,Not Interested,Not Required Anymore,2025-11-26T11:32:06.506Z,,"surgery done outside 
+pt. on medication only "
+6926e57a74b0bdff7218b4d5,691161398e9debf284a2fed3,Not Connected,Busy,Busy,2025-11-26T11:33:14.964Z,2025-11-28T15:00:00.000Z,
+6926e5f474b0bdff7218b4d6,691161398e9debf284a2fed3,Not Connected,Lead Closed,Lead Closed,2025-11-26T11:35:16.845Z,,pt. health was good
+6926e6a574b0bdff7218b4d7,6911611c8e9debf284a2fe68,Not Connected,Busy,Busy,2025-11-26T11:38:13.261Z,2025-11-28T17:08:00.000Z,
+6926e6bf74b0bdff7218b4d9,6911614f8e9debf284a2ff27,Connected,IP Decision Pending,Follow Up,2025-11-26T11:38:39.886Z,2025-11-28T17:08:00.000Z,need to connect again ( att. is busy)
+6926e70d74b0bdff7218b4db,691161418e9debf284a2fef0,Connected,Not Interested,Not Required Anymore,2025-11-26T11:39:57.596Z,,call cut by pt.
+6926e73374b0bdff7218b4dd,691161238e9debf284a2fe85,Not Connected,Busy,Busy,2025-11-26T11:40:35.142Z,2025-11-28T17:10:00.000Z,
+6926e75274b0bdff7218b4de,6911612c8e9debf284a2fea6,Not Connected,Busy,Busy,2025-11-26T11:41:06.579Z,2025-11-28T15:15:00.000Z,
+6926e79674b0bdff7218b4df,691161348e9debf284a2fec2,Not Connected,Busy,Busy,2025-11-26T11:42:14.860Z,2025-11-28T17:12:00.000Z,
+6926e7f874b0bdff7218b4e1,691161138e9debf284a2fe48,Not Connected,Busy,Busy,2025-11-26T11:43:52.606Z,2025-11-28T17:13:00.000Z,
+6926e84f74b0bdff7218b4e3,6911610b8e9debf284a2fe2b,Not Connected,Busy,Busy,2025-11-26T11:45:19.953Z,2025-11-28T17:15:00.000Z,
+6926e8c174b0bdff7218b4e5,691161178e9debf284a2fe55,Connected,Not Interested,Not Required Anymore,2025-11-26T11:47:13.721Z,,"pt. take second opinion 
+
+(now on medication only )"
+6926ea7874b0bdff7218b4ea,6911614f8e9debf284a2ff24,Connected,IP Decision Pending,OPD Appointment,2025-11-26T11:54:32.063Z,2025-11-28T17:22:00.000Z,"after consultation , dr. decide "
+6926eebc74b0bdff7218b4f5,691161468e9debf284a2ff04,Not Connected,Busy,Busy,2025-11-26T12:12:44.030Z,2025-11-27T17:42:00.000Z,
+6926efbd74b0bdff7218b4f9,6911612d8e9debf284a2fea8,Not Connected,Busy,Busy,2025-11-26T12:17:01.289Z,2025-11-29T17:47:00.000Z,
+6927f33454f691b706fa788c,6927be9e0c752a5ede0302f6,Connected,Not Interested,Not Required Anymore,2025-11-27T06:44:04.312Z,2025-11-27T12:08:00.000Z,"pt. wants discount on current estimate,
+i escalate the same but there is no more possibilities of discount because it is already discounted amount , i talked to dr. manish directly now he said in blk this surgery is not possible ."
+6927f5ed54f691b706fa7897,6927bea70c752a5ede03031a,Not Connected,Busy,Busy,2025-11-27T06:55:41.698Z,2025-11-28T12:25:00.000Z,
+6927f72e54f691b706fa789b,6927bea30c752a5ede03030a,Not Connected,Busy,Busy,2025-11-27T07:01:02.620Z,2025-11-28T12:31:00.000Z,
+6927f81a54f691b706fa789f,6927bea80c752a5ede030320,Connected,IP Decision Pending,Follow Up,2025-11-27T07:04:58.631Z,2025-12-02T12:34:00.000Z,"pt. is out of town ,
+after consult they side for surgery "
+6927f98154f691b706fa78a5,6927bec60c752a5ede030393,Connected,IP Decision Pending,Follow Up,2025-11-27T07:10:57.772Z,2025-12-10T12:38:00.000Z,pt. visit after mensuration for consult ( previous problem is resolved ) she want to plan baby but now she is unable to conceive naturally 
+6927fa3a54f691b706fa78a8,6927bee30c752a5ede030407,Not Connected,Busy,Busy,2025-11-27T07:14:02.166Z,2025-11-28T12:44:00.000Z,
+6927fb2d54f691b706fa78ae,6927beca0c752a5ede0303a2,Not Connected,Busy,Busy,2025-11-27T07:18:05.941Z,2025-11-28T12:48:00.000Z,
+6927fbab54f691b706fa78b1,6927beda0c752a5ede0303e2,Not Connected,Busy,Busy,2025-11-27T07:20:11.004Z,2025-11-28T12:50:00.000Z,
+6927fc0b54f691b706fa78b3,6927bedb0c752a5ede0303e4,Not Connected,Busy,Busy,2025-11-27T07:21:47.234Z,2025-11-28T12:51:00.000Z,
+6927fcfc54f691b706fa78b8,6927bedc0c752a5ede0303e9,Connected,Not Interested,Admitted Elsewhere,2025-11-27T07:25:48.881Z,,out side surgery done in emergency 
+6927fd6c54f691b706fa78bb,6927bedd0c752a5ede0303ec,Not Connected,Busy,Busy,2025-11-27T07:27:40.539Z,2025-11-28T12:57:00.000Z,
+6927fe6d54f691b706fa78bf,6927bedf0c752a5ede0303f7,Connected,IP Decision Pending,Follow Up,2025-11-27T07:31:57.275Z,2025-11-28T13:00:00.000Z,"-need to connect again ( post ktp pt. )
+- advice psot renal biopsy 
+- aug last consult "
+6927feb754f691b706fa78c1,6927be990c752a5ede0302e5,Not Connected,Busy,Busy,2025-11-27T07:33:11.940Z,2025-11-28T13:03:00.000Z,
+6927ff3054f691b706fa78c4,6927be9b0c752a5ede0302ed,Not Connected,Busy,Busy,2025-11-27T07:35:12.658Z,2025-11-28T13:05:00.000Z,
+6927ff8154f691b706fa78c5,6927be810c752a5ede030284,Not Connected,Busy,Busy,2025-11-27T07:36:33.293Z,2025-11-28T13:06:00.000Z,
+6928004c54f691b706fa78c9,6927be840c752a5ede030292,Connected,IP Decision Pending,Follow Up,2025-11-27T07:39:56.098Z,2026-01-27T13:08:00.000Z,"need to connect again after 2 months pt. is out of town on his working site 
+he is interested for surgery "
+6928014054f691b706fa78cd,6927be850c752a5ede030297,Not Connected,Busy,Busy,2025-11-27T07:44:00.118Z,2025-11-28T13:14:00.000Z,
+692802a554f691b706fa78d3,6927be870c752a5ede03029d,Not Connected,Busy,Busy,2025-11-27T07:49:57.382Z,2025-11-28T13:20:00.000Z,
+6928030454f691b706fa78d6,6927beb10c752a5ede030340,Not Connected,Busy,Busy,2025-11-27T07:51:32.527Z,2025-11-28T13:21:00.000Z,
+6928047654f691b706fa78db,6927becb0c752a5ede0303a9,Connected,Not Interested,Not Required Anymore,2025-11-27T07:57:42.550Z,,"BLCS2480096
+proceduce done on opd basis 
+"
+6928061054f691b706fa78df,6927becc0c752a5ede0303ab,Not Connected,Busy,Busy,2025-11-27T08:04:32.125Z,2025-11-30T13:34:00.000Z,
+6928069154f691b706fa78e0,6927becc0c752a5ede0303ac,Not Connected,Busy,Busy,2025-11-27T08:06:41.315Z,2025-11-29T13:36:00.000Z,
+692807c854f691b706fa78e4,6927beb30c752a5ede030348,Connected,Not Interested,Not Required Anymore,2025-11-27T08:11:52.172Z,,pt. is on inj( he is improved ) no need to creation of fistula 
+692808f054f691b706fa78e7,6927beb30c752a5ede03034a,Connected,Admission In Process,Admission Tentative,2025-11-27T08:16:48.810Z,2025-12-04T13:45:00.000Z,pt. is coming for surgery cataract 
+692818dd54f691b706fa78e9,6927be8d0c752a5ede0302b3,Not Connected,Busy,Busy,2025-11-27T09:24:45.585Z,2025-11-29T14:54:00.000Z,
+69281a1f54f691b706fa78ee,6927be8e0c752a5ede0302b8,Not Connected,Busy,Busy,2025-11-27T09:30:07.332Z,2025-11-30T15:00:00.000Z,
+69281d0154f691b706fa78f7,6927be910c752a5ede0302c6,Not Connected,Busy,Busy,2025-11-27T09:42:25.520Z,2025-11-30T15:12:00.000Z,
+69281dd654f691b706fa78fc,6927be920c752a5ede0302c8,Connected,IP Decision Pending,Follow Up,2025-11-27T09:45:58.516Z,2025-11-28T15:15:00.000Z,"network problem voice is not clear, need to connect gain "
+69281e2f54f691b706fa78fd,6927be970c752a5ede0302db,Not Connected,Busy,Busy,2025-11-27T09:47:27.059Z,2025-11-29T15:17:00.000Z,
+69281f0054f691b706fa7900,6927be9d0c752a5ede0302f3,Connected,Not Interested,Admitted Elsewhere,2025-11-27T09:50:56.278Z,,surgery done in jeevan mala hospital 
+6928206454f691b706fa7905,6927bea50c752a5ede030313,Connected,Not Interested,Not Required Anymore,2025-11-27T09:56:52.186Z,2025-12-03T15:24:00.000Z,"pt. is coming for consultation only, because cyst size is decreasing now "
+6928216954f691b706fa7906,6927bea60c752a5ede030315,Connected,Not Interested,Not Required Anymore,2025-11-27T10:01:13.398Z,,"attendant is deny for surgery
+(age factor -76 year)"
+692823a754f691b706fa7907,6927bea60c752a5ede030317,Connected,Not Interested,Others,2025-11-27T10:10:47.863Z,,"pt. is on medication ,stomach since 4-5 days 
+unable to eat but pt. consult before a week with different max id 
+mrcp is done stone is out 
+doctor precribed 2 months medicine "
+6928246354f691b706fa7908,6927beab0c752a5ede03032c,Connected,Not Interested,Admitted Elsewhere,2025-11-27T10:13:55.465Z,,"pt. surgery is done in R.G stone 
+under dr. anil "
+692826fe54f691b706fa7909,6927beb00c752a5ede03033d,Connected,Not Interested,Not Required Anymore,2025-11-27T10:25:02.651Z,,"need consult in opd only
+IP NO:- 233605 pt. is admitted already in blk"
+6928284f54f691b706fa790b,6927beb40c752a5ede03034b,Connected,IP Decision Pending,Follow Up,2025-11-27T10:30:39.667Z,2025-12-02T15:59:00.000Z,"PT. WANT CONSULT WITH DR. IN STARTING OF DEC 
+AFTER THAT FAMILY DECIDE FOR SURGERY "
+692828cc54f691b706fa790d,6927bebc0c752a5ede03036c,Not Connected,Busy,Busy,2025-11-27T10:32:44.582Z,2025-11-28T16:02:00.000Z,
+69282c2254f691b706fa7915,6927bee20c752a5ede030400,Connected,IP Decision Pending,Follow Up,2025-11-27T10:46:58.761Z,2025-11-30T16:10:00.000Z,NEED TO PROVIDE ESTIMATE AFTER DISCUSS WITH CO-ORDINATOR 
+69282c4654f691b706fa7916,6927bee20c752a5ede030400,Connected,IP Decision Pending,Follow Up,2025-11-27T10:47:34.413Z,2025-11-30T16:17:00.000Z,NEED TO PROVIDE ESTIMATE AFTER DISCUSS WITH CO-ORDINATOR ( CGHS) 
+69282d3854f691b706fa791a,6927bec90c752a5ede03039f,Connected,Not Interested,Not Required Anymore,2025-11-27T10:51:36.292Z,,PT. IS CURE NOW 
+69282f3c54f691b706fa7921,6927bebf0c752a5ede030377,Connected,IP Decision Pending,Follow Up,2025-11-27T11:00:12.589Z,2025-12-02T16:26:00.000Z,"PT. IN BIHAR ONE EYE SURGERY IS DONE IN BIHAR BUT PT. IS INTERESTED IN SURGREY FOR SECODN EYE 
+
+PT. VISIT FOR CONSULT IN DEC IST WEEK NEED TO CONNECT AGAIN "
+692830bc54f691b706fa7925,6927bec50c752a5ede030390,Connected,IP Decision Pending,Follow Up,2025-11-27T11:06:36.116Z,2026-02-27T16:35:00.000Z,"BEACUSE PT. IS GOING OUT OF TOWN NOW FOR WORK
+"
+692834d654f691b706fa792a,6927bec20c752a5ede030385,Connected,IP Decision Pending,Follow Up,2025-11-27T11:24:06.075Z,2025-11-27T17:40:00.000Z,need to connect again 
+692835a254f691b706fa792b,6927bec30c752a5ede030386,Not Connected,Busy,Busy,2025-11-27T11:27:30.102Z,2025-11-30T16:57:00.000Z,
+6928365a54f691b706fa792c,6927bec00c752a5ede03037d,Not Connected,Busy,Busy,2025-11-27T11:30:34.709Z,2025-11-29T17:00:00.000Z,
+6928369b54f691b706fa792d,6927bec40c752a5ede03038c,Not Connected,Busy,Busy,2025-11-27T11:31:39.459Z,2025-11-30T17:01:00.000Z,
+6928374154f691b706fa792e,6927bece0c752a5ede0303b3,Connected,Not Interested,Admitted Elsewhere,2025-11-27T11:34:25.170Z,,surgery done in gangaram hospital
+692837b654f691b706fa792f,6927becf0c752a5ede0303b7,Not Connected,Busy,Busy,2025-11-27T11:36:22.131Z,2025-11-30T17:06:00.000Z,
+6928385954f691b706fa7930,6927bed20c752a5ede0303c2,Connected,IP Decision Pending,Follow Up,2025-11-27T11:39:05.581Z,2025-11-28T17:08:00.000Z,"pt. in meeting now 
+need to connect again "
+69283a0b54f691b706fa7931,6927bed70c752a5ede0303d5,Connected,IP Decision Pending,Follow Up,2025-11-27T11:46:19.480Z,2025-11-28T17:15:00.000Z,need to connect again actual patient is EHPG.228748 ( rishika jaiswal's  father mr.  vivek jaiswal is actual patient 
+69283b6454f691b706fa7932,6927be9c0c752a5ede0302f0,Not Connected,Busy,Busy,2025-11-27T11:52:04.018Z,2025-11-30T17:22:00.000Z,
+69283e0054f691b706fa7933,6927be9e0c752a5ede0302f9,Connected,IP Decision Pending,Follow Up,2025-11-27T12:03:12.570Z,2025-12-08T17:28:00.000Z,"Severe (80%) carotid stenosis in a high-risk patient with prior CABG 
+after clearance from CTVS
+after  follow-up estimate decide 
+"
+69283ec754f691b706fa7934,6927beba0c752a5ede030364,Not Connected,Busy,Busy,2025-11-27T12:06:31.438Z,2025-11-30T17:36:00.000Z,
+69283f6d54f691b706fa7935,6927bea30c752a5ede03030c,Connected,Not Interested,Not Required Anymore,2025-11-27T12:09:17.261Z,,"pt. continue his treatment in aims hospital 
+( not ready to share anything about self)"
+69283fe454f691b706fa7936,6927bebd0c752a5ede030370,Not Connected,Busy,Busy,2025-11-27T12:11:16.320Z,2025-11-30T17:41:00.000Z,
